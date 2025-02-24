@@ -1,1 +1,1 @@
-This AI application helps user to order daily meals based on preference
+This AI application helps user to order daily meals based on user preference
