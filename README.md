@@ -6,4 +6,5 @@ Main Tool:
 
 
 Environment:
-    venv
+    venv：
+        psycopg2 # django-postgres
