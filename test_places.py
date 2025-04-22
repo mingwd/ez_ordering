@@ -2,7 +2,7 @@ import requests
 import json
 
 
-API_KEY = 'AIzaSyAPkvfGMTUfzkuZxfofAjbixnsIs7xBACc'
+API_KEY = ''
 LOCATION = '47.6062,-122.3321'  # Seattle center
 RADIUS = 500  # meter
 TYPE = 'restaurant'
