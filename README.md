@@ -8,3 +8,11 @@ Main Tool:
 Environment:
     venv：
         psycopg2 # django-postgres
+
+
+
+AI_recomend + campusOrder + community delivery
+
+    Manual input menu data
+        simple project
+        scalable project
