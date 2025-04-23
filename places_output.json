@@ -1,160 +1,104 @@
 {
   "html_attributions": [],
-  "next_page_token": "AeeoHcITShlWYyXSpjN8-ZaI566pQzkIWeOlSZs4sJFSTku8I6JHL-NpYxzwR0mU77VfeIV01QvF8K3ijRtDsz4TCsbDwVUORk66f9CLqzkcZRQH6tUq2JkEqzQHGmoZDvHOxzGz_RJrv-epcqAjlxeT1q3hpbiPQyUOxTBpqQlqUc6JucnvnnRWuPkKi8h_38TM_mysO1aR_mV8dwk0jedES7tr34zSXJAcnJ-JH-bbFGIOeEKcdiF5mTTPu9F1DiKqAeOcQIb6HmHDtKh7XkNC15CalmzOmYxiU7rra5E3s8ARWRff9-ANzsHEh0F_TavdX5tSoDfdIGrj8pa60SCx0a3wwZrgi8uT-YFv4V2N9iIAKUQHelGxolPsgVsOiOwuzpSHfoVoSXx4RAIAhmHcSj9G1AaG9EkTaNEoT5cwzXx3SRb9HKCUAIuCtwQ9",
+  "next_page_token": "AeeoHcJkhYUB6C5Gg59xzEirNdLmRnLvEK1yTLYu3o3DWQdho9AO3D0XoclB0RVcObvD_roVO2SM-0Mem0pr3joRTF9HFn2hYla_45TtG5DQb8sk6GAgh4HFicgRWKflDBtY14vGHqXkAy6hOtroLqtibaGM4VXgDcxBkOodVtFpCXTStwRrNVGsek9DafWuD-6enB-bto0kl_GxSpqB7aa406i605mNdsxMuamLoKxD0FecVewesVV2ufI7tFdsgzlzJJmpx_L1JqUov1odA54CZWezpUZ_f2IVJZrrsHXtnbY43uuhCriQkKVy1M0UExGIseDOnaO2eWDPRNqy47Z24WdFu_mfhxsLwQzJ08GFsXR3QCgRQ6bzAoFdsED-9R9MXc4fozqodCtDdWpuDEuwVp4XKKEaaInALTIAVvn1kvy4GPXfPEsmiDAo7HO_",
   "results": [
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.607606,
-          "lng": -122.3325934
+          "lat": 47.6576344,
+          "lng": -122.3176868
         },
         "viewport": {
           "northeast": {
-            "lat": 47.6089180302915,
-            "lng": -122.3313041697085
+            "lat": 47.65899273029149,
+            "lng": -122.3163985697085
           },
           "southwest": {
-            "lat": 47.6062200697085,
-            "lng": -122.3340021302915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
-      "icon_background_color": "#909CE1",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
-      "name": "Kimpton Hotel Vintage Seattle",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 3600,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/100868427468708353870\">Kimpton Hotel Vintage Seattle</a>"
-          ],
-          "photo_reference": "AeeoHcI7ACXaRCoH-1RgVs7Z6t-RmAtfwfBwJYfuPTcEAYBw7uEWb3dQ-nF9emusJC3tKN9BudkTSerWvRRf_Cxtr0HBTONYX_QvTL3qTgx8vto7ZkJRjQPAmub4u1MzXronmOGkd-xI7yorX6kDCdE46qHoTi8NFi-yKaxTPPcxmJgKRg1TvyHskYxYOUfcXbSCPfiIRJwgo2P8KcuUcu9Y6gLLCa6x3fXDBW2Mnblmv8_qebZ-F9B_QyRSKcpnr8s0VCaF64VWkutWxopPuTtnqlvh4NMydb6D56S3PjpoujEisZ5DSmx1869eXGMdwjtneXjYjqRhTZo",
-          "width": 2328
-        }
-      ],
-      "place_id": "ChIJJ6iYtLZqkFQRGEtPwzzHb48",
-      "plus_code": {
-        "compound_code": "JM58+2X Seattle, WA, USA",
-        "global_code": "84VVJM58+2X"
-      },
-      "price_level": 4,
-      "rating": 4.3,
-      "reference": "ChIJJ6iYtLZqkFQRGEtPwzzHb48",
-      "scope": "GOOGLE",
-      "types": [
-        "travel_agency",
-        "lodging",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 1063,
-      "vicinity": "1100 5th Avenue, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6079573,
-          "lng": -122.3352017
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.60937243029151,
-            "lng": -122.3336214697085
-          },
-          "southwest": {
-            "lat": 47.60667446970851,
-            "lng": -122.3363194302915
+            "lat": 47.6562947697085,
+            "lng": -122.3190965302915
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
       "icon_background_color": "#FF9E67",
       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Purple Cafe and Wine Bar",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 1024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102182331274846345841\">Purple Cafe and Wine Bar</a>"
-          ],
-          "photo_reference": "AeeoHcKDr0zpwB7NVPrLS3SNNnCzg5kQeIKQA7op6cRFpkVge8sGuyXtXiktbATHyMjQYSDwBZEB3D9kjx_imLs0cLZc3UNoAl-of3j0Yz4PvNWHdcclTw-HuuXv8uZsx3S3aCznv0HZTsg0BjBy8jmHeQRymPIQqyx1SRAscSgxDiABMKR4Hj40ZiWp3Pvn35CIGYBbXIw94oXQmT6-kTTDYQ39Zb1QVXhRrLvozpAR_VZ7wuC5MmXKKV2y4xXj-_CmaMbWuId9PKuaDeV5R00o-qi_AgEj7BSHLRwavcO9lYs4sNDBc3bUYYAWiho8Bf5ENfGxJicfc7o",
-          "width": 682
-        }
-      ],
-      "place_id": "ChIJC2j55LNqkFQRRqBoRA_a_3A",
-      "plus_code": {
-        "compound_code": "JM57+5W Seattle, WA, USA",
-        "global_code": "84VVJM57+5W"
-      },
-      "price_level": 3,
-      "rating": 4.4,
-      "reference": "ChIJC2j55LNqkFQRRqBoRA_a_3A",
-      "scope": "GOOGLE",
-      "types": [
-        "cafe",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 3338,
-      "vicinity": "1225 4th Avenue, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6044334,
-          "lng": -122.3341284
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6057207302915,
-            "lng": -122.3329002197085
-          },
-          "southwest": {
-            "lat": 47.6030227697085,
-            "lng": -122.3355981802915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Metropolitan Grill",
+      "name": "Portage Bay Cafe",
       "opening_hours": {
         "open_now": false
       },
       "photos": [
         {
-          "height": 2000,
+          "height": 400,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102557953903827242501\">Metropolitan Grill</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/104899642905314009801\">Portage Bay Cafe</a>"
           ],
-          "photo_reference": "AeeoHcK1GmBIiOGdffB3KG3_E5z__kpMpRgub5i2acKka-S3uudiB6ffgoNwGMWrQlLThgriJFj7i0mw60qLiA2SELiKIoX6tNExAdLgepDilGJhJWzpHMbheAuYWHS9TFW40XNqsm7x_vtVWbf5fUJwQlUZIE4yNkXw2tiLTqGJu9EutWM2km19lUFbwOO73ClgnhIUBLvi5elWFhLg_0dADf3xA_8PKiVrGllhiSJicHxw50N3pgwsvkygMbmgwL50-SiiAbu37i9BdXQjOIui7_eWiL6mPc5H7cNukYzSDnkfyznmm0_GWR79rDVnluZtt_8Ert54QSw",
-          "width": 3000
+          "photo_reference": "AeeoHcKq88wZpBDwc-DJCT7eL5WD2jsDgRg69eNsF1QIR743I431xaQ5pXpSqaIWkeeSSQxv8y9kXAOt1Eare-Ku6cl6SjDK97sEfjON2lTQDFXtY0sSx9ctQ3Se2CZCMxeYs0CVPxbgLUzilXwGX-hBeqoQrZwxQUK-u_wmW8SMQo-KlWJdnznJp3WpYc_2iWEpJp6vQwm3mVF7RAJjYPrZHZMwaU3bELAaIRL3OvsvUyk5PCmDErRGkHd4_aoLMTakZOxLLpfzekLrlD7asN7KkJsiHaxiWgFI0gf0qQfK8XpDMoIk9N2lnIorDFeq3k8KqtZO4am6mo8",
+          "width": 533
         }
       ],
-      "place_id": "ChIJPf-9ULBqkFQRSBVLYMR_ONQ",
+      "place_id": "ChIJzZzBbfQUkFQRP0f0nUznInY",
       "plus_code": {
-        "compound_code": "JM38+Q8 Seattle, WA, USA",
-        "global_code": "84VVJM38+Q8"
+        "compound_code": "MM5J+3W Seattle, WA, USA",
+        "global_code": "84VVMM5J+3W"
       },
-      "price_level": 4,
-      "rating": 4.6,
-      "reference": "ChIJPf-9ULBqkFQRSBVLYMR_ONQ",
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJzZzBbfQUkFQRP0f0nUznInY",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2435,
+      "vicinity": "4130 Roosevelt Way Northeast, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.657851,
+          "lng": -122.313492
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.65919713029149,
+            "lng": -122.3120055697085
+          },
+          "southwest": {
+            "lat": 47.6564991697085,
+            "lng": -122.3147035302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Big Time Brewery & Alehouse",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1675,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106188553415577799882\">Big Time Brewery &amp; Alehouse</a>"
+          ],
+          "photo_reference": "AeeoHcIoEqVFzTq458PZ_j3uqdE1O-YYzmtfby3FM3fkWUKzESRBo7oqBP6gojlV8nGHrm-pOeS8puozFfsvv2Skyb7JaSDIYxnCEDdq_5jTCeLxZnmzJX-0gVBpG3a1ffS9P7805XFTPYfXrlzoJKctftKKFbujKKNKWruklOIOMSkeIBWi7b_omiIjvsG0dB_l2ncpUae1ot5COyuJ1AyRYPkS-cNuh0tLFui5hdsWWHfn3Jwi8YafDmp5_tyqzg4ase7JJV-uBrtWUA6zL52YDgB98chDMyyJzuDSugCiCt4NVbA8txX06hMVIQOeHCaQylr0Ek5Nk78",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJKaC2QvMUkFQRWVvn71SBmuY",
+      "plus_code": {
+        "compound_code": "MM5P+4J Seattle, WA, USA",
+        "global_code": "84VVMM5P+4J"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJKaC2QvMUkFQRWVvn71SBmuY",
       "scope": "GOOGLE",
       "types": [
         "bar",
@@ -163,31 +107,31 @@
         "point_of_interest",
         "establishment"
       ],
-      "user_ratings_total": 3719,
-      "vicinity": "820 2nd Avenue, Seattle"
+      "user_ratings_total": 489,
+      "vicinity": "4133 University Way Northeast, Seattle"
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.6096207,
-          "lng": -122.3335738
+          "lat": 47.6574076,
+          "lng": -122.312937
         },
         "viewport": {
           "northeast": {
-            "lat": 47.61112343029149,
-            "lng": -122.3321284697085
+            "lat": 47.6587660302915,
+            "lng": -122.3117346697085
           },
           "southwest": {
-            "lat": 47.6084254697085,
-            "lng": -122.3348264302915
+            "lat": 47.6560680697085,
+            "lng": -122.3144326302915
           }
         }
       },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#7B9EB0",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "Washington Athletic Club",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Cafe Solstice",
       "opening_hours": {
         "open_now": true
       },
@@ -195,127 +139,75 @@
         {
           "height": 3024,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/114532789426504786123\">Jesy Fortino</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/105475619114224847075\">Andrey Kurenkov</a>"
           ],
-          "photo_reference": "AeeoHcLzLDBb2Cy4oB31m6agrNt6DcCsK-ZYPZxd81w2ArbqIDjM2N1VxqZIvDYJHaZVJFAq5TDoGGL3j8dGRTfRCRNgjKkL0lFVOzrKR1eg5XL6Oz0wwi95qQC08_XAj7AVvToe0YayrsIcZRiUqusn2r2gSK0T7mnyfE-PXQMqIS4iDXu6yDnCSSdKluN_kev4WATf8FMxn8bhhdXCvd_6lbl67Ic-ySCmuQzbPNTQ8HEQOk2txB8ftBS3_UnuIH_bsRwOfQRghBdM4C6OtoSePgwM3yPn2PZY4jrXStA3W4lTaLQknBlhIl9HvX2zwZ0NwaOJa3l5V-18AxJJ5LTiLaA1WURLoe2nOVeYYwY3Fj5WkLZOS36Yl7CWRr8MMFcWyGfMn2VRsrwhCndNsgMH2AkdjQip6Bx6b4J13DbnMvP5_FsNrQf6YaPu36K7HCQI80M3G_X5_mCQpP8z3uve8oDbW2ohwz6d1qVUXBzHP4FpLWfUZVRlpmegr-y5oxVajB-C6eiU-4ylGs3Hya5yGJJdIAD_E6XnPGN3ceJUsrNbwpc4ViCew_N0T0QD39CLhKmLpLnMXFXLmQfWQ83k-wYjl6pBtL8Sr3hG3nsrAu5dAcSupB2uUtNBeji8E_aWB-By1XRS",
+          "photo_reference": "AeeoHcLVYDOGTmEO61_BBpQB4tLMtODsF2pZzAWn7jdHn0A1WRgQHUHfIX-1bdxAhOnULxrrDIrrkuhADLlupZPNbfyoGybOlyR5dUgGdpTiJSwe4aPC9fOpCZHhsA0IAx5buAljzX0Luq3ta9Y7gnfngzG0dGKhi4ToG6v_ctp6p9Ak9Pv9FExz8U4S3fTG4Ya9yIdwxIBGF2kN4Dfro6pMvtITIQXq0pf5pX2cuWUNuthXQMTEV48Jk-QmQzdk7BL613YjYwyob7E6IN0tebhckXR0Do1tEXYjhMwiDSJ1KLXCnjB05_9uWxZZikQMnXqbL3lGzzT5W94DO7xQ6jrKcLbNMMTWuZJbWaLjEsbjXMhIKbigPUDTxhuG25ro6jWjvzTldU3D03ahI6j653B3r38RQ16RFlHJjmUJt4xvmFM1WlNeDgFN6ptNcn95Rg0Foz3j9kbakYpdTrJcDw9XFhP9wJ7FJw_FtR5ql4wmR0Vs6u8s4qrxXGFjqVpateFqqgOaYcbtZmeu3bO9Sn9aaFsATHve4OO4H7iZTsR0gVF8aa4cxtwl55JjB0utZuLkqzinNfnf8gkYGFuwMpzX2LSJBOoNYMM1rrjG45UVBE6Sa5liAdmBSPaZsGUJOnjGhNLWlA",
           "width": 4032
         }
       ],
-      "place_id": "ChIJWYtiabRqkFQRmLQhcVZ7-40",
+      "place_id": "ChIJaZE6QvMUkFQRXCfaq6_QnBE",
       "plus_code": {
-        "compound_code": "JM58+RH Seattle, WA, USA",
-        "global_code": "84VVJM58+RH"
+        "compound_code": "MM4P+XR Seattle, WA, USA",
+        "global_code": "84VVMM4P+XR"
       },
-      "rating": 4.5,
-      "reference": "ChIJWYtiabRqkFQRmLQhcVZ7-40",
-      "scope": "GOOGLE",
-      "types": [
-        "gym",
-        "spa",
-        "health",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 250,
-      "vicinity": "1325 6th Avenue, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6045052,
-          "lng": -122.3306041
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6056666302915,
-            "lng": -122.3292160197085
-          },
-          "southwest": {
-            "lat": 47.6029686697085,
-            "lng": -122.3319139802915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Market Fresh",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 3000,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/103252579017958365562\">Mau Quesada</a>"
-          ],
-          "photo_reference": "AeeoHcJY8xE-Uw8VHNCNXDIZmzltgEU58a3m044GHrqrda_6ns50Dj2kGubTe9Jv1zMQ8f791U_2afZyRl9eRNUFu7OSuOGKTMgf5H93lPiANRKwc8T-st1orwLU4VZowKAr-alTnqNIFbkDKGf1G4VADVXxJXgSDZGlwd0jsMGvZcnVGZL2Ke3cKW3OtEUiBbtFLtB1h8ljLq_AuaFu-wXqcsrsQbbsblsE02niphTvBeVdiC7NUVqExn4N8HQJBoMQX4SDJ1rQoN6xWsj3Vuz4pCk_Gg0ayDJIpmS8XbgWWK-Izh1Zn2zOxgxvsMY8oGDkCx4XTW1Vzb4bjdKULjiZQ4FjP1H6jVKscVa0U9Xrxp2CQ8xqHsd_5-bL3bYzxABjfSG18C1ubzLuWm9WDLOFWle6ZtdGwJ6eo2eKklj-d6r2yIA2LYYpIdrvux-Jr30Sr64T1kE_IPdJgEnsbWgLJXn8YCgzwvTkzcLsBAMHFghZuWVml2C1rHUGU6npZqmcBikFcCoLCd-LhjpGVTiTjrLQSWdZ4E63Q3g9kMD2euC-D2YsZ7yfL2uBLBq-XeQJZwrYt0GmgY_yuR2w-mmhuvGhMxT2bXhagchzjvx7sASlf2cITEZRH25DsDdx6iDafstFug",
-          "width": 4000
-        }
-      ],
-      "place_id": "ChIJi-OPx7BqkFQRgkIhTgSJoC4",
-      "plus_code": {
-        "compound_code": "JM39+RQ Seattle, WA, USA",
-        "global_code": "84VVJM39+RQ"
-      },
-      "rating": 4.2,
-      "reference": "ChIJi-OPx7BqkFQRgkIhTgSJoC4",
-      "scope": "GOOGLE",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 24,
-      "vicinity": "701 5th Avenue Class / Lab Service Area, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6074543,
-          "lng": -122.3324706
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.60888628029149,
-            "lng": -122.3312018697085
-          },
-          "southwest": {
-            "lat": 47.6061883197085,
-            "lng": -122.3338998302915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Tulio",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 682,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108995845715573765505\">Tulio</a>"
-          ],
-          "photo_reference": "AeeoHcJlVmrtwunxf14rwCGFAWoYrI50HzHuAEoNAVW8oqUvtWLIERs6lAtHyvAUDNzo-R0yAayRajLbKOfWk3kYUirnTOhJuUKFpmt2PFWpnbi_N6o3t9gcXRfSwtG2KVQBQBSac2iX4o5WBIc8g1TKLMYSOI3D4yEn8hp5Bi2A_7iVT3ARKCz2fruBktvFebQIxv32i2YphzCFUayukX18Z3DXXlSOxKC-hwu-otX2b9UZmNDi27k5RHuiqZVcwEtM1DvVgId3o1DA_-PdIV84A7mc4Lkz36t_ktWgf7AM2wA7MRKFway8J_H0X0jIvs_5Rwi9MBuMOkY",
-          "width": 1024
-        }
-      ],
-      "place_id": "ChIJJ6iYtLZqkFQRPwfAHFSulgg",
-      "plus_code": {
-        "compound_code": "JM49+X2 Seattle, WA, USA",
-        "global_code": "84VVJM49+X2"
-      },
-      "price_level": 3,
+      "price_level": 1,
       "rating": 4.4,
-      "reference": "ChIJJ6iYtLZqkFQRPwfAHFSulgg",
+      "reference": "ChIJaZE6QvMUkFQRXCfaq6_QnBE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 775,
+      "vicinity": "4116 University Way Northeast, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6592399,
+          "lng": -122.3134023
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.6605951302915,
+            "lng": -122.3119526697085
+          },
+          "southwest": {
+            "lat": 47.6578971697085,
+            "lng": -122.3146506302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Chipotle Mexican Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106163962269942978024\">Ben Zhang</a>"
+          ],
+          "photo_reference": "AeeoHcITp2f5z9rWsVvBkrJjsNWywe3czokKGRI6tfcEXzXdHOBG_mZyb16bPEJkwXulYr8vl9TKda77eGvwlwVo2Ac6G6J3Qcedbg6zzEGJFrIqraBLwMd4b6PI0JFFeKpJX2DUR90A3xRIuTbsn00bpg94ikSbdl8J-NPa-BgjW24UORVVkWubTWOcz720qU8y5PX2iOAsuCDAdUDv3FwLsM7rDquFM-ugvo-YEC94GNzeH13wkIrZ89jH1U3y4EU7LqETUc_EXuXYUrHgjVFLE7YiP3rDxY2XB5_gpfn2GRT8UAzT-V2W3AFUMKyAhtxhsKcHL72pMH-4YeyBMoFfvntMZwbRMTUH95JAt9VFD2zlE7jP0Tz-2IcHWhmS_T__XNrFb69qHrIhU6FuOJXGYE_R2XFhRFzF7-r8k01zIeH4oeXKb8I93mIwy117VDPBV07ddflrBZNxP0239Qjw34rl7Id6Cm7Mp2r7PByv-CFOmXtmc63PVsWD-ucg6g9SaboTQxYpn97wE6TBqrS2SwH3ogAtc52uKbCR-lUXHkYWs2oitYs6zyRMKR8-2tRcYqthO02CApfNQqOI4wGkO1I2kFe4D-sKDW0JDUBh_5YciIIz2Z7_I5D_Gn2j8RenPsFnauho",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ9yhJrvQUkFQRbsWNMgL3lhE",
+      "plus_code": {
+        "compound_code": "MM5P+MJ Seattle, WA, USA",
+        "global_code": "84VVMM5P+MJ"
+      },
+      "price_level": 1,
+      "rating": 3.4,
+      "reference": "ChIJ9yhJrvQUkFQRbsWNMgL3lhE",
       "scope": "GOOGLE",
       "types": [
         "restaurant",
@@ -323,52 +215,52 @@
         "point_of_interest",
         "establishment"
       ],
-      "user_ratings_total": 1030,
-      "vicinity": "1100 5th Avenue, Seattle"
+      "user_ratings_total": 1045,
+      "vicinity": "4229 University Way Northeast, Seattle"
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.608256,
-          "lng": -122.335198
+          "lat": 47.65728799999999,
+          "lng": -122.312969
         },
         "viewport": {
           "northeast": {
-            "lat": 47.6095448302915,
-            "lng": -122.3338002697085
+            "lat": 47.65864543029149,
+            "lng": -122.3117525697085
           },
           "southwest": {
-            "lat": 47.6068468697085,
-            "lng": -122.3364982302915
+            "lat": 47.65594746970849,
+            "lng": -122.3144505302915
           }
         }
       },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
       "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "The Capital Grille",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Shultzy's Bar & Grill",
       "opening_hours": {
-        "open_now": true
+        "open_now": false
       },
       "photos": [
         {
-          "height": 1366,
+          "height": 5304,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/106148851640267500463\">The Capital Grille</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/114510659972734203398\">Marcus Biastock</a>"
           ],
-          "photo_reference": "AeeoHcLR2_qbTamY__Ku_TCSNbwumibo7ytsIfIzgARzqqyW5nKnP-G88ffbYtYa7NbNsoYmg04Kv2bggaa2jf3yLtXAN38QtlauXe2G-Gacy6S52_lubkTjx6SGqMF3a9Wlei4q9Vr3CF639QMZNYNRNZJ0o66jNOAbWIy05u-GnxSEDiY-_Xks-Gd888g5s2nLZniiP3wHrG52UlA-trdFWipGjJvgKZrYG0kxguqDCuFLmiSA2Drab_suVx3-deDXPIfbxPuIPr8JGVWXwmXhpsAOljPfAUtG1vhQo7lsdK2Itya85wCR3uMpmx8uxRl5qTDd7Jf0-9c",
-          "width": 1366
+          "photo_reference": "AeeoHcLgpHmL7rwkQ9XYsF-tsS_yfw-nf7le-2aVUstAreMHqIPO3fcJvutmYYeKjC-mIGgfdPrVjTR-v8S1ft02NVCFqfMWpGNfCHZ1XW0FOZIQb-HZELrowiem9UTuDEVO3l_1AxucG5Dt7vq8wYkdqKOiYYtfb3KLz2JFCmRGR2yARI4sStB-LRY3tVbRxSr34koef3V-MrmV7NZwx5N0l-kndFGTkkn0OI4BwcJRkicWIJDSsZa1jxF8ayF3SFs_qlTpVqWRN4ZJT9qFHaxb_GD9oAo-jtVNFMiiqeZXrXLZu43MjwcgJjSJJYnahPmNJXbxiGy5q7SgFsrCVe7aGLy4XpSdsUDX8VsjYt8tvyZFrZlnUVF-XojN4oA3RzZvfPaeykDKCiTbKp7zRl7nrb-3C_N1oQ1--teg2aowkdG-QR9QN9Ind54QA-uZL2Dn-NQTvTrfN44l1DAJBHrohSTXFr9m2-aKCSOwMP4uYEW6z_c9YK5WwZ3b6E3pVBwdvpZPNlx-k_laFZlDe8_fFs6Bt_vNORyDUoT3TOMnE9Xi0536Di_pLcUf1U1gT_6-Odv-vum4Wnq6rzX5EHJjZk0MsjqP4IaQknQjhpJ3wrQ20HIPF9nGydGHxhE0LJ7fUL80qw",
+          "width": 7952
         }
       ],
-      "place_id": "ChIJ320c77NqkFQR2SRL16MUXfU",
+      "place_id": "ChIJG_j0afMUkFQROPWTaerWo9E",
       "plus_code": {
-        "compound_code": "JM57+8W Seattle, WA, USA",
-        "global_code": "84VVJM57+8W"
+        "compound_code": "MM4P+WR Seattle, WA, USA",
+        "global_code": "84VVMM4P+WR"
       },
-      "price_level": 4,
-      "rating": 4.6,
-      "reference": "ChIJ320c77NqkFQR2SRL16MUXfU",
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJG_j0afMUkFQROPWTaerWo9E",
       "scope": "GOOGLE",
       "types": [
         "bar",
@@ -377,128 +269,187 @@
         "point_of_interest",
         "establishment"
       ],
-      "user_ratings_total": 1951,
-      "vicinity": "1301 4th Avenue, Seattle"
-    },
-    {
-      "business_status": "CLOSED_TEMPORARILY",
-      "geometry": {
-        "location": {
-          "lat": 47.6050677,
-          "lng": -122.3302575
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6064173302915,
-            "lng": -122.3289809697085
-          },
-          "southwest": {
-            "lat": 47.60371936970851,
-            "lng": -122.3316789302915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Moghul Express",
-      "permanently_closed": true,
-      "photos": [
-        {
-          "height": 2988,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/118388847357755965602\">Charlie Liu</a>"
-          ],
-          "photo_reference": "AeeoHcINOlE1f9_LH8G7YTcMsZArgAXXi9qtiCrpexfJolfXIL397mqc6W2zVG8sWlqt6P5uIZAS_0uBYomI3rSI31Ez9_uRdEo5QSw5h6kOSqVHXV6NZhoSJhJgN30uYIxedCM_A4scqSoOWCtZpTREZZ0wUJT0MD0M8DYIBltgnBvUAvG3cLIKTkCM3H6e5nCUPG3-IGOTjnmuvmC8uQLLZCxfeXqy1FqZKfswRGXhfU9r9hlFXwFhaqdGiJeg_8eXLHObOp4G1eagOpRezIDmU5k1ZjKh1o4nmXY0i9OxUO6gqp-eqie9XW3vqGVLtYFBDMoX8A3HmNM9SxlL75QwZ-Ovpx4vYUIv2xMwdAc4rV0ax3bSaOe6rxmY6WEUoJ7goMv-KyOYTCfElly0zRZLs8-O1LFa2Qx3ButC6Koa7RjPqZEaON4QwV7GSTLoO0NnWdeveoD6BjT0xx52tSPGly5DgDSjyBe9cvw5of5u1eeJuUTXbpchQHGxHXDUIWc2VugdrhJQtG5MvUwJw7CdrqDWiYdxxM6ioVGzThX0b7p8tYE7EiP4J990aXhf_l152WMgjxEu8ql7bHVPh52PX2vgNUq6JJ0zOf6Zef5AVxO6Nmxhdb13TUHxLrbBeD1HenIU8Q",
-          "width": 5312
-        }
-      ],
-      "place_id": "ChIJi-OPx7BqkFQRpX9F3wNpuWE",
-      "plus_code": {
-        "compound_code": "JM49+2V Seattle, WA, USA",
-        "global_code": "84VVJM49+2V"
-      },
-      "price_level": 1,
-      "rating": 4.2,
-      "reference": "ChIJi-OPx7BqkFQRpX9F3wNpuWE",
-      "scope": "GOOGLE",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 13,
-      "vicinity": "701 5th Avenue # 111, Seattle"
+      "user_ratings_total": 1253,
+      "vicinity": "4114 University Way Northeast, Seattle"
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.60878169999999,
-          "lng": -122.3371981
+          "lat": 47.6581808,
+          "lng": -122.3134741
         },
         "viewport": {
           "northeast": {
-            "lat": 47.6102211802915,
-            "lng": -122.3358052697085
+            "lat": 47.6596004802915,
+            "lng": -122.3120688197085
           },
           "southwest": {
-            "lat": 47.6075232197085,
-            "lng": -122.3385032302915
+            "lat": 47.6569025197085,
+            "lng": -122.3147667802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Starbucks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5792,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114510659972734203398\">Marcus Biastock</a>"
+          ],
+          "photo_reference": "AeeoHcKR41D86tdUVEJ17VPMD_L9OQ7McgmnvjBnvvSGjnXa5D8_3rozQkDjMI-vxSjwDeNU36CuS-bNUPgfctPRX92y5cdJTSE2ZE7DiJICnP5JWqnhOR4ssZ39xC_GpDHZuizWSVf5LAXoRaJjvnVMzVjIDVLjttD4_BEs8aRlitgyRIQroWjODRU7-MVuLmHc2zq4Esu6GLl54x5a2SMIOwVvWXpCWoi1Xg4KxWrDw9gSXXYTqrfKK9e3L-YmwQ4K3kLdHoDasaVVvaUaQoFvH3jw95D4bBbSZg02UK2R-WkG_nZ5VVFRB0pfu7-lDQmfUaAKTEG6NSX51vjfhlA1Ts4a_t7whfel_JRyNKrp7IHN6Yjo59ZUV5XPrHXwz0dg6obiyUZfDNPLOHKbxyQpbJUiJ0oXkfYVErZPtDfNziH7pYmwycWUFCHcuYDB2KQR3A0n5R2k4VQWdJ3YOaV3sTIb78BknIZVH_a6tA4kjLUyR9Tfd5Mqx9ZrccXvr_vtwSDTim71Nx1sQx8Jq-DZKiEPQuVCZtxCJPRs3oiYfLia3NkYUSLukSxB2BkNoy10QolyuNbVawoIaPJf9U-i6dF8sOEeATGqcaQhnapRhAbHdRV8_dkNH62HVTHZX1gbivJWwfwk",
+          "width": 8688
+        }
+      ],
+      "place_id": "ChIJm2i9WPMUkFQRQ8B_XnsrsTc",
+      "plus_code": {
+        "compound_code": "MM5P+7J Seattle, WA, USA",
+        "global_code": "84VVMM5P+7J"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJm2i9WPMUkFQRQ8B_XnsrsTc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 822,
+      "vicinity": "4147 University Way Northeast, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.654658,
+          "lng": -122.3215395
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.65601978029149,
+            "lng": -122.3201769197085
+          },
+          "southwest": {
+            "lat": 47.65332181970849,
+            "lng": -122.3228748802915
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
       "icon_background_color": "#FF9E67",
       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Wild Ginger",
+      "name": "Voula's Offshore Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110692519998602606444\">J C</a>"
+          ],
+          "photo_reference": "AeeoHcLzlJnV4rPtGJroPXsKhYNbJfl1_QwmW8Irxj_Po_Vt4TpzPzaTer3ofxUQKTBrjXvpSaj6gbXYdJ3l_Q9VsvrotRZ2j1EyDjYO5SM0l6H9rKf9aW4-oQDzX1PHrLhPFH4Noj3HMUya6KwiIpeIIKQhZSTASecMjY1cH3ZZVxLr4-Qsqlc9l9tNgDvzQm533f6fMinKTR-Cx8s8wl-EI6kYKcLQrYJyLDu-WM5hjwEXsxRKyfDnQNY_sXjCbZU2lrbT1opzk_36ON72e6XI8O9hNHRzpFhtYLw1OkRg4OVibh3pSuMBq4ZFYbEQjBpm3mMpIY3TuQneH4UZE4ns4E7hfMICql_VV53Fjh9UN5FwHErIj-GvuepD6463myDzMZMEq9Qkxp9xwt7TUAE2T2xpQlH_0F16IeF1kutxB-GIT7LwkumEY37wOo-z8XHVuCLuaO3qWC95AMmusVqFaUba9Ikcz8kq_M8sxeqdIr8U_syWhOnMgjHOJGHzY0hhFmE8ePRWvW1llM98Szo6PQuVAwLD8ONXKkSTcztVUS8jmnWUWa0cNS2zewVKqQcr4ouS8bjUHzvCg0eNGIYrOsNq9_DcBZ1gHIOEecNnw9Gz5TZPmgDVO8CpiZlIaACxRGaeug",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ_6PM3vAUkFQRKmNERgd3N8M",
+      "plus_code": {
+        "compound_code": "MM3H+V9 Seattle, WA, USA",
+        "global_code": "84VVMM3H+V9"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJ_6PM3vAUkFQRKmNERgd3N8M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1261,
+      "vicinity": "658 Northeast Northlake Way, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.658867,
+          "lng": -122.31339
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.66023608029149,
+            "lng": -122.3122217197085
+          },
+          "southwest": {
+            "lat": 47.65753811970849,
+            "lng": -122.3149196802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Finn MacCool’s Irish Public House",
       "opening_hours": {
         "open_now": false
       },
       "photos": [
         {
-          "height": 1164,
+          "height": 1153,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107045432723461463057\">Wild Ginger</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/107311320096968348071\">Finn MacCool’s Irish Public House</a>"
           ],
-          "photo_reference": "AeeoHcKswOvBfpvbd0SMWGG9cbFsBJPg-vDEWIfLgUEvkGl_inru2jN1OYl-tZUMlqZ-xZEjYQYGLwWjG3GAEpXcUTNlseRK9A89L8vembwMjinufntFEl-6HX4Rj1xe_FLVTCqgGhQM8b4CuebqwvcGzcLRR_oL_i70PrQGJxdtX85Qz0sM4LCIm7RezgHz8TL2i-05D9F2odaq-mwJOKoTFtZOHNL5xUMWYifdSnNscRxZgm_wVxoFmLA2p1mgyLyHXFsv-4TRZntcVCqvtFxNroJl1jheEau8WlVfQBybwE_Jq7Nt2ID3tHu-kokQJjtZRKVFkb1OKmY",
-          "width": 1500
+          "photo_reference": "AeeoHcKCJS9ndH9l7WRL3Ykin7QedXYElWQuZyw7WgZtz1xMXtwSm0OdJuANi-eZZZPp7fJVIA_y39YP5jEz78CF4uizwmzkVrWqhV_zhLY-KZJindDJrsANnGSRotKkZQz7S_1JdB7mQjtFWMSFJQVilxjy7cz8o60m7XDyANnkCA6Sv-ujOQA1Vkmr3ZTd-bhBM1DONOidbTBDDrkD4IGYbemjgUOrDwvGH0Ibll4VpjmkJnEzzE15ebQIdq0VW6CX5tnYFmb_pU1fC3lrGRFxmQ897P9wWbPWSOckgQZVhxuWEnmH0f46U8lO5fZLwd7ks6HgIho8-as",
+          "width": 2048
         }
       ],
-      "place_id": "ChIJHUQoo7NqkFQRj20DssNIn8c",
+      "place_id": "ChIJAwwZrvQUkFQRu6zb8LQWYig",
       "plus_code": {
-        "compound_code": "JM57+G4 Seattle, WA, USA",
-        "global_code": "84VVJM57+G4"
+        "compound_code": "MM5P+GJ Seattle, WA, USA",
+        "global_code": "84VVMM5P+GJ"
       },
-      "price_level": 3,
-      "rating": 4.3,
-      "reference": "ChIJHUQoo7NqkFQRj20DssNIn8c",
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJAwwZrvQUkFQRu6zb8LQWYig",
       "scope": "GOOGLE",
       "types": [
+        "bar",
         "restaurant",
         "food",
         "point_of_interest",
         "establishment"
       ],
-      "user_ratings_total": 2180,
-      "vicinity": "1401 3rd Avenue, Seattle"
+      "user_ratings_total": 541,
+      "vicinity": "4217 University Way Northeast, Seattle"
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.6095118,
-          "lng": -122.332598
+          "lat": 47.6584338,
+          "lng": -122.3124845
         },
         "viewport": {
           "northeast": {
-            "lat": 47.6108213302915,
-            "lng": -122.3314082197085
+            "lat": 47.6598057302915,
+            "lng": -122.3112159197085
           },
           "southwest": {
-            "lat": 47.6081233697085,
-            "lng": -122.3341061802915
+            "lat": 47.6571077697085,
+            "lng": -122.3139138802915
           }
         }
       },
@@ -507,26 +458,26 @@
       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
       "name": "MOD Pizza",
       "opening_hours": {
-        "open_now": true
+        "open_now": false
       },
       "photos": [
         {
-          "height": 960,
+          "height": 1291,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/108818797036717240758\">MOD Pizza</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/109062152188489752309\">Eric C</a>"
           ],
-          "photo_reference": "AeeoHcL-WdcOi4eJe0SdSO71RlXT7c1TeRHA7NG4qCRLqNgnqJ9kb-z-i-yrLfT9ob5_t7x7jfvvXahaLG4N_MLUiAifQuUMTXsa1lBZ0M5ggTGOagQCVNlbqNtcNEpe_HkFYifwnSaJCknKPRU-n6zy37gm0y_dj0lylq7e9C6jVCa4dL16fi4R5gYlNYHcWXUwaPrfqSfZG0gLwhqhwTsiQyyyQWT2BqRXXRQR9FlRRDeS_HTRK54jau0AK38GJnoKnRs2AwQe6tJuDfCai3k4VSd4sszGU05zwK8s91fPIxygyQUaxzVjvZkfmRtGf0ofUUqz0BPJXpQ",
-          "width": 716
+          "photo_reference": "AeeoHcKkrvEtOYIY4jc4p0q9-ISddlcVgG1Vnz1CpkY1Y3eXB0XK4OPsT3hvqa5FrFqwxZAX4xy--nxXxO_gg3LQKUgWLni5oCMxYeTwF1bOxbTMo79l6OfcjMv08PP1S7NpA3WctNz3gaO7-Lyfpiay6QYVhdlBJSRO5urrttyDyHxhKoUCnON4bs2p1brMmuq2EZEOTvO_NlQd0k3epyP9RP3oKEBAG8Kc3poIoAF7BmNVjZ-JEynEaLp_DM9B3QoaTjW6FXk-v4H3IgAQWs871bu3zonorWC4o-wdIL-wAKOPzLKg_S3PtKbfwT8x_WeTWGbDIrBNlaRMmSTpwz6tvQimQnAw1DhD337sEb-gIpv2Q40gKYmE8XoFT4XK-QnCeTj77OdrYcRy_FFy4_aKJ-NL7Z3IANF9gAdWydLxLl-J0ZjP8ysN8K4vdYSLmRQazn5Qu2zwLjB3pt4EJuW3jOVsfMETDfMKy0nWv80uciqohxDj3WE8yJX1A-QCYFr__Far3AW7VYtz6fGVEVU08G4dTOnV2FW_QRHyJWF3uSr-9LGYO5E6bbedf4BVXmDyrwNiQZmX-wDj1GJ28lzd29dSsOHIO29WyGfSSSJz9sOU8SjiFLIYWoscRFgtkCp2fyzxtA",
+          "width": 2000
         }
       ],
-      "place_id": "ChIJJXMXFrRqkFQRWni0h8h7Ydw",
+      "place_id": "ChIJbROKVPMUkFQRIxq3W7CzQ58",
       "plus_code": {
-        "compound_code": "JM58+RX Seattle, WA, USA",
-        "global_code": "84VVJM58+RX"
+        "compound_code": "MM5Q+92 Seattle, WA, USA",
+        "global_code": "84VVMM5Q+92"
       },
       "price_level": 1,
-      "rating": 4.4,
-      "reference": "ChIJJXMXFrRqkFQRWni0h8h7Ydw",
+      "rating": 4.3,
+      "reference": "ChIJbROKVPMUkFQRIxq3W7CzQ58",
       "scope": "GOOGLE",
       "types": [
         "restaurant",
@@ -534,106 +485,423 @@
         "point_of_interest",
         "establishment"
       ],
-      "user_ratings_total": 2326,
-      "vicinity": "1302 6th Avenue, Seattle"
+      "user_ratings_total": 762,
+      "vicinity": "1414 Northeast 42nd Street Suite 103B, Seattle"
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.6032446,
-          "lng": -122.3355958
+          "lat": 47.658573,
+          "lng": -122.3134825
         },
         "viewport": {
           "northeast": {
-            "lat": 47.6045635802915,
-            "lng": -122.3342897197085
+            "lat": 47.6599093802915,
+            "lng": -122.3120011697085
           },
           "southwest": {
-            "lat": 47.6018656197085,
-            "lng": -122.3369876802915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
-      "name": "Owl N' Thistle",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 2252,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104058933067237233191\">Matthew Monroe</a>"
-          ],
-          "photo_reference": "AeeoHcKWxNMotsBRcAALVQWr-jpjjaPHBGAM6lYMy5qWpp8A9f9D9KVzNrDUzgoLin5BVpOktr0cReyBj4zAFbLY4dNn_AQoNNIY9RknLyPekpEVGFYDpNMWpJMpLQBeeaCqNB-hbghLFJDNyMF4JzaprD1YOZHD__SQsj5lXSboIIhO3aSmV_TFlyIzbXNPMeGqoKuE6JY2sBIAWjPy4l1S-Sg1v-_TqF_SjKdoQ0mIhLXzWB36FyRYNAqdBUdPH-gQFwrtkMI3zWdcNpuBS33jMnWo0x9zSjHwWlp9DcfAQjR0AyWxaDffKP_az9c6VgkOYvDqej5owl3Kniq6jCWb0YTFp4o8GJlVvWdnMPXyi2wiI0XlDrhIVxb__vzY1lS6LxRb2bF_ep11K-UGY2UCn12gwQKLu3IF4J55TPrjSjSkmQbMGey2c3kEVvFSetmWFq6PQsdQBMuXJ4Rq3BITgjCc6iOyBBvzoO5l7oM4sxMZGpm6VXay8A65zdx7aspmFRjxc_-9yFeYiOLhSoCDFb9SVfu1dSEPqSZeY_ERXGuyvFhW7Xu5Sv9MlO-D0ueSo9yCVgq3-yV3xV13ujzLkCNFY3BQ_U3rFoCofwYast_MDuDLfOF3mdMEimdfVqPdyuYX2y7N",
-          "width": 4000
-        }
-      ],
-      "place_id": "ChIJw3ZPO7BqkFQRwt9kLngxs4w",
-      "plus_code": {
-        "compound_code": "JM37+7Q Seattle, WA, USA",
-        "global_code": "84VVJM37+7Q"
-      },
-      "price_level": 1,
-      "rating": 4.4,
-      "reference": "ChIJw3ZPO7BqkFQRwt9kLngxs4w",
-      "scope": "GOOGLE",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 1954,
-      "vicinity": "808 Post Avenue, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6102713,
-          "lng": -122.334101
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6115176802915,
-            "lng": -122.3325925697085
-          },
-          "southwest": {
-            "lat": 47.60881971970851,
-            "lng": -122.3352905302915
+            "lat": 47.6572114197085,
+            "lng": -122.3146991302915
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
       "icon_background_color": "#FF9E67",
       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Jimmy John's",
+      "name": "Pho Than Brothers",
       "opening_hours": {
-        "open_now": true
+        "open_now": false
       },
       "photos": [
         {
           "height": 3024,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109013198219258180078\">David Studinski</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/107056712198401068597\">Mark Konings</a>"
           ],
-          "photo_reference": "AeeoHcKFa9GZWdNXM2-SmX1D5a2KhMzdpxjpJoNqMg9Z9d9yJF8JxOvMEbnqzROkFnf5MuPXJGWLTHuLrBfWDLuTqwnmr5Cw6YbR0moERv7UP22XnXu34gfXI5DI9wT3qhkV32uHiOndOGg56KrgbOet5RZrsLg6ftbVp94N99Xyj_rMPJYI59d1ia9tCBXHoyHedKvvc-jYqNujrcVqOXPGIfvv-GksbNt8pF3BEcG8g3SYreoe9RwXzYCv8cLqkVI3j5XsRLbj-BZ-FKMJc3b_gPu8dSdz_3QudKOWNlYZ2IbPuAMzgZ5bvHpUwEV80XVSCPRhVKXDq15ZM3alpvKk8MUUWf17jeddgsbmuAI3lUGW-tdQqpdTesVdmLPWz_ZnRnO66EcKIapXh5jch8qbUeSXDbVcxArnsczpkD_08aM_tooiuHn03ArwF1Roc9FwoHwYcUP0R28Ti2VayYu5tjwoG8V4Ol5hYptgNv-GFd6SC8XcnUKE-DMf1Ccw_yw22sSGRW2pLKjAZ6NUsQ8IbQKQhA9i2w14c2QLXovrFEEx6JP-C-wavBNANt8wI7h86NJabKUhvc88cEMOOURjPexPsrkkxV-BIRe7PMJkbl6mHykXe72q5a-HtPgD9D9eU3jAiw",
+          "photo_reference": "AeeoHcK_Oy2YGIJoNTz0lGhxhkqoFVC7om2o3K2i0WJ5ynEibDLaHhXExPNsQio69zXa4TWz_vuqGAxJombb1RoYpCsLo3URUNMrTM76I_OlIET3BZcvH9Nn752IzYFUNor7RfK_9tLh4a7Xaq2TdESB7AMj4Iij4bic75rIJKdpd18DO9UMpDDX9DKJhpo45Flw73XwUUvMDeZUW9tVul7FKPGgPvDtUquewExtgw2cdr3MFvcmDauUfT93CvzRNtVGv36lnPRJhuaP98xExuRbawtKqFxqV4nSvwzlSJMylM7yI0ku3wkb0t8vSli92NYGAVtKKShnGvdz2A5KW4-y0pbyAFagplMPI-_BkaZRG_y61_IyoTgz-AZu1BoPbpG9JwyXRiHgTRcFHyWMSQ1kpUdTnuS__DJk1hyeM48sKIP1Ulq0jhQfTBWleKXiaACvMp9LpCEHADHoWmJTKPap_9LZWcFIeVoXqg91n5Ra0iZAyhXnGdf3SBTIFLJMBsUnh8J4B5U8szOKsvy8ezWE4t6b5j-zgpkv1cI1eMVW1JuoMxYXFXmCOhQmtK7NifJEO9yMa452YaEyZZ3zK8iL9x7MQu3sfJgWiGRDeC3BH4whVkdChhLM08wsIXTqsN4zs28aKw",
           "width": 4032
         }
       ],
-      "place_id": "ChIJ3bW1i7RqkFQR5FappQqizW8",
+      "place_id": "ChIJ1yLVqPQUkFQRY3IAaNoLO5w",
       "plus_code": {
-        "compound_code": "JM68+49 Seattle, WA, USA",
-        "global_code": "84VVJM68+49"
+        "compound_code": "MM5P+CJ Seattle, WA, USA",
+        "global_code": "84VVMM5P+CJ"
       },
       "price_level": 1,
-      "rating": 3.7,
-      "reference": "ChIJ3bW1i7RqkFQR5FappQqizW8",
+      "rating": 4.1,
+      "reference": "ChIJ1yLVqPQUkFQRY3IAaNoLO5w",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 366,
+      "vicinity": "4207 University Way Northeast, Seattle"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 47.65718769999999,
+          "lng": -122.3129544
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.6585373302915,
+            "lng": -122.3117472197085
+          },
+          "southwest": {
+            "lat": 47.6558393697085,
+            "lng": -122.3144451802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "University Teriyaki and Bakery",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108232762185070498399\">许玄清</a>"
+          ],
+          "photo_reference": "AeeoHcJtAVrBRNsKy51nwnhIdsUQs-X6NUvf9kq4OeRNSbqHj01nuiol_gkKqnLmaaNaQFaNVYKHbkex16vlotRX3lE0LBwQovgJMDZXE2mpIpv-NsffDUUoF4bS1PN1dqAxGO0GYkcS_BaZB8xIUz04uAAjhzDlpNfmwcOcy4lrw56pLU8dhODniFcnFvpwqJ7tAGX3nYklI3IKBTXzhV9MZH3_KUtTt9BB0Alv1XZQ5yoSjSJfZbpdfHZntXLctRLUmum6Q91PuQTjHDd0lbm8QsHw95qLyEccGK5L3zH6aATN0CJMHotAdXG6fEdyZt_1Z06226R_-3FoJFcwFNA36dnlkvpm7aYIBtgkyavZ_944JYMYDWyQ4nx1yjCjBqedG2okhZO3_hndLUdkVnB75DX_ogdk2ypMY2Lt0p9osohsVs3lWupx8pxQXQmuTX0AlxCas0EJdnGrTeZIax8FGdaYN6J74wQf2O25m3-wfAXmE-8Fns-car4w_qrJTbcnbq22-aFpR4wwqV-N__2qxCFkNQbNM5LeQ3ApwqH50BDFq60pPvkqGnDD8J0bfN1gZ-mp2TPdsKiT_O7VCpw9ajcNL0m7B6_0iLYtH_UH41r7Uvmvch0C9p_oKSEO4szFpy6VB98o",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJhUZ9avMUkFQRMrBooWA9Za8",
+      "plus_code": {
+        "compound_code": "MM4P+VR Seattle, WA, USA",
+        "global_code": "84VVMM4P+VR"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJhUZ9avMUkFQRMrBooWA9Za8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 271,
+      "vicinity": "4108 University Way Northeast, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6597041,
+          "lng": -122.3138318
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.66106193029149,
+            "lng": -122.3124443697085
+          },
+          "southwest": {
+            "lat": 47.6583639697085,
+            "lng": -122.3151423302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "name": "Ugly Mug Cafe",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107056712198401068597\">Mark Konings</a>"
+          ],
+          "photo_reference": "AeeoHcKWCiJgYlPco4iWwDwLGtJfY10CTd9Nt92Rn0A6o5ZQzG1F3OkQM-U1LKjzda__XiWpC6k02B3GdqP7WkAt2XoGjnsGgGYQMOfpyeSAOVajgPDrRqReGHnZDzmxvw5JSPWOg2n-ZM8kVNZrrlYLBo1scKVn5XlJzIxdQu-nkLz2KCyhGg8Aipg9RrXixEY740wzFSCIFacSc6jyJfIo_P5cdvCvvg3cCuZ_u4ozqbaIthdf6404t5X4RWqe3dOk-Fw3M-PNKm9qbYDwmK5HLc7WdXGPp-OnPINC3bmPKZCwaaAWLQzOjyKWiryp1NEid0nB7s60CTaZnbgVVbhPANGpkamfj_t-ar6ikpEDASu0dP4ODXiEq104igjvNdJK_tIIHkyIq-0Y_DuL9ztI4eKq88Eb939xTw_Ambzh37J8di4GQFDrrPRP4AABWHAxubb3QnNIye58Y8TCYY_krvbyZf3kqzbGvb4-VTLhnkp6idON6HxfSEWOh6ClLYmq5V5_lJf9fqnndKrQUoVzbztQptukmVxpcq9QOotlAc7iOTsVzzxe08QS6lMjhFae4L4VPSCAbRJ3m3QRY5vUlXijhSlmrWPLa84xzBajGsO_plZs09Jt6QtcEXz9qdGi6l9HE8CD",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJwZGQzPQUkFQRRhd8D82mN_k",
+      "plus_code": {
+        "compound_code": "MM5P+VF Seattle, WA, USA",
+        "global_code": "84VVMM5P+VF"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJwZGQzPQUkFQRRhd8D82mN_k",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 454,
+      "vicinity": "1309 Northeast 43rd Street, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6579819,
+          "lng": -122.3133619
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.6593308302915,
+            "lng": -122.3119384197085
+          },
+          "southwest": {
+            "lat": 47.6566328697085,
+            "lng": -122.3146363802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Aladdin Gyro-Cery & Deli",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1804,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112433062766666860395\">Aladdin Gyro-Cery &amp; Deli</a>"
+          ],
+          "photo_reference": "AeeoHcJOlWBsS5IsrOHjRJ5e7u7n7f8bql1_HnbGgJqU1VQTNhx-WY0RtESnpERX_J9iI0GtsPsDiH5C5CrkwgfuNljaV3ySYDdtmMToPw8wk9Lrl4jQhnY0BIf9qiASVLl3EEdnDWwM5yiAKbBoNRqfVrMnXNR9o5TqutiExRAaseY99ipdsV8dqzCmA7_hGdKH4a_SJKcGdwtuMCU0MDOkRXTdurgjAfvAz3BVPNpRlMaHevYgY34_E_UiV2r2cs63P9td3pT5lUsxMW51pUdhmheAP2NyAhrGVAENNMr6adkg32htRGRumkyl9z-kLv06zcWP_7IKVQU",
+          "width": 3205
+        }
+      ],
+      "place_id": "ChIJdzZGWfMUkFQRFZ1X8DaZstc",
+      "plus_code": {
+        "compound_code": "MM5P+5M Seattle, WA, USA",
+        "global_code": "84VVMM5P+5M"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJdzZGWfMUkFQRFZ1X8DaZstc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2185,
+      "vicinity": "4139 University Way Northeast, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6582127,
+          "lng": -122.3138873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.65957283029149,
+            "lng": -122.3124924197085
+          },
+          "southwest": {
+            "lat": 47.6568748697085,
+            "lng": -122.3151903802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Little Thai Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114253906616626353032\">Wendy Tan</a>"
+          ],
+          "photo_reference": "AeeoHcJixRMogqjJ2QFazl_Pl-K8qcWfS0m8i8lquejZimsHz6wGjoZ4bX2oJUnQ8AMPCgg0s2B1Up5h3mK0W-5KQPf2PA1RkUtoCn0R6_O9AKX5tHSdltyk2KBIFjZsV_y6frqTCKjjjRDUSPPvWAmjKOGUutyKAY9vug6fbg-Hefy-PlTANuY945uEIrYLNA0Bur-WPSiMZECw9SnyyjEM0NjS-BenUEvdMTSRxRY8RjEhCGfyO-ODbLYvjlKOMsm7EBzlj6p2xjq1c6aeuw7UdLda-IKbWcZqlEAqvnEi_m-TVyhTO2SqTu3Bz82qRluGMHZBPq492LG8hfzi2Yq4LzSb6WWZh_bRWil_0QH0WbL0jko9EGgbst4cdNI77wsgVmSYC1yrGZGpbvgpeQEa3MobxN2Q-lWPNDyZgS5HBEYdgow5fAz5WFAf94Lgn8VvoyGzX8SS0jZC2_cZ8OrBBrOmoXcAczSwLIivRDt8Sbht-UJAi4jd7NlzBreWExQleZaYw-sA--s9-sqP_oHbfytFnG0pJWLmgfIJipa515x5EidyLcgawejFGvqO9S4dAfxdu4HBAd-cD4UvZceq263Ive1Nn4Xos4q-HSWO1q9T5-bJ3FVX65se_lZ-sxxx",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJkQqon_QUkFQRrw8vixeqiVw",
+      "plus_code": {
+        "compound_code": "MM5P+7C Seattle, WA, USA",
+        "global_code": "84VVMM5P+7C"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJkQqon_QUkFQRrw8vixeqiVw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 438,
+      "vicinity": "4142 Brooklyn Avenue Northeast #105, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.657989,
+          "lng": -122.3130778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.6593441802915,
+            "lng": -122.3117960197085
+          },
+          "southwest": {
+            "lat": 47.6566462197085,
+            "lng": -122.3144939802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Samurai Noodle",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116503155029380427473\">Justin Hooper</a>"
+          ],
+          "photo_reference": "AeeoHcKJhah8-stG4_24znd3NZEosSDSj7dK84v39inH12tJScexXjHVaIF9T3YxwYIDVJXqxWq_9h5hO2e1vC5__eUdhVSXQdbPORYhRk2hDUO-Z4jH_2MMqIJIM2FYB-Svk0Q9e0-A-wivt6eGiBjaQKeFKB-ABSK3nwoLf4jDP6pDNU_PFOthsKFObwttafQUP1pdYunc_iNYBREnVgBGnHbn9ysy2js2Uj3VKYOr6tL6YaFNPjKdKogiXmO52nrw3kgOCid9BMz0qAwsCk7ShWP_Zd1Kv1pcaVEfHp2AvNkUgUIHzprI_nnVZXP0_IbWFmg4Lh3pQHouQOXp_3CuZXWpGGK-_A8fRDfrfH31HFqjFESTFKNWox5iC0tQ3OGITLeRPIS0te1FQz2E6jmH-6SsdRMs3lG0oc_y-X0RG6vBLkdpuOcxOzYQxMHNe1qlN49P4L3650FVCpiEv2ljT9zkk_n2LzadEESurWagdHwNoaFSJ7oOSQvzPwSAwIzfBRc5679Xkt_40j8j5PYwwW3G9-E1DQbmL1_-4drdSzjRnF7LiT2YUTre9R1J9HB450YK5T9G8OTyzkLX-6r8Md-DaHT06S8r7qi3EITsAK0aR70-fd6F0zbq36e--IgIqgL1RA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJxfk6WvMUkFQRQDavEWstOH4",
+      "plus_code": {
+        "compound_code": "MM5P+5Q Seattle, WA, USA",
+        "global_code": "84VVMM5P+5Q"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJxfk6WvMUkFQRQDavEWstOH4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 716,
+      "vicinity": "4138 University Way Northeast, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6582152,
+          "lng": -122.314067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.65962268029149,
+            "lng": -122.3127131197085
+          },
+          "southwest": {
+            "lat": 47.65692471970849,
+            "lng": -122.3154110802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Korean Tofu House",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102290613258950400311\">Eddie Kim</a>"
+          ],
+          "photo_reference": "AeeoHcLycQ53EVInFjK4dECuh9C6faZy7jck-Sz8mxN1PayImvmMNM70w7MjU8KdvZ3zJ2PXqH42b2OtWqC6XjeZhFG7P2XntmWmy-s1X-AlkV5yHbOFqfVINapj681z3vNSv1eYT7brLIJOw2VuPdCl5cpAqd-osr5rb22Mj2At-OcSQzoX9RR3wy6mMHqstXvXJ_AQCFZ5krf6eVfYY1p3o3hOH2kaUMhy8d_lRcddUShk8N3-DNEq4mOl33E3RXN_7I4_CLYNHaQ7_UPwn38zltlMPTaRS7Ft-rVEIzxV1W2euZrHFPkWz4ALF6tEk9K5TdVEO6tbMKeF6buPKFQM57P1F1LZikH5klSpomPNy2QP8G8xCClgTbpaTm3Pk7AiZsluVLSUVTlVHfb-djvl4UGoykKqDpXCfG59MoafAN5pR04RKB07pYLhyuCXlKw9KT1o6H1SxVu2Nnj8oY1Ev4MFjYVPsX0NzWbX4PCURvyDz_Vrqtvh9gOVh3aGlPwHDhMDyXXOoBZV9_xwvgwjmwHFeiIwgCylHakwXXocsRKzb9f8N-JpJZL2JomJilNXddA9IhjNn8je39FkjzHTNdn5w404JmUN4vc2hO0zQnGTKXY1EjkxaPDrFLVYlysQlGMNdQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJkQqon_QUkFQR6IATEnUfuK0",
+      "plus_code": {
+        "compound_code": "MM5P+79 Seattle, WA, USA",
+        "global_code": "84VVMM5P+79"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJkQqon_QUkFQR6IATEnUfuK0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1167,
+      "vicinity": "4142 Brooklyn Avenue Northeast, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.65551669999999,
+          "lng": -122.3153701
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.65678278029149,
+            "lng": -122.3139748697085
+          },
+          "southwest": {
+            "lat": 47.65408481970849,
+            "lng": -122.3166728302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Pagliacci Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107201235116292222030\">Pagliacci Pizza</a>"
+          ],
+          "photo_reference": "AeeoHcIi_uv4Tfmdo5Hb3t1Oq_OElcggSXyf-75FYNmZcyMEF8ee_P0Ia0cDb3oVPi5JARzU_NGd7FP9SiLWD0zjdS1N-w2IkBLlzSK_OwoxUzZFrpPPRsqUuF8GHodz-Fd7KM8AdL9yO8zhUJJTpixhDZySuCV0gSjE8QWFepxJdXgJIT_PI3-1_Odqa-VKc0zjntsmYfINu0-vs5gKBhBi61qm4skND3YSqlXwYmONJOtyTgErUSo-Jvfj3YY3SimizkfHpslKVOq849xPBPstCqks3mXFVKt_QHAlAGcEjas8-Vgdy2XC28nuZO5E6Z_V2B-skjmsZT8",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJY92psPMUkFQR0PFAh859Vfg",
+      "plus_code": {
+        "compound_code": "MM4M+6V Seattle, WA, USA",
+        "global_code": "84VVMM4M+6V"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJY92psPMUkFQR0PFAh859Vfg",
       "scope": "GOOGLE",
       "types": [
         "meal_delivery",
@@ -643,425 +911,158 @@
         "point_of_interest",
         "establishment"
       ],
-      "user_ratings_total": 157,
-      "vicinity": "1420 5th Avenue #200, Seattle"
+      "user_ratings_total": 45,
+      "vicinity": "1245 Northeast Campus Parkway, Seattle"
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.6086955,
-          "lng": -122.3374174
+          "lat": 47.6558248,
+          "lng": -122.3147847
         },
         "viewport": {
           "northeast": {
-            "lat": 47.60998818029149,
-            "lng": -122.3360124197085
+            "lat": 47.65693728029149,
+            "lng": -122.3136821697085
           },
           "southwest": {
-            "lat": 47.6072902197085,
-            "lng": -122.3387103802915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-      "icon_background_color": "#13B5C7",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-      "name": "The Triple Door",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 1365,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107607905887297479338\">The Triple Door</a>"
-          ],
-          "photo_reference": "AeeoHcI1Tdoc1HaE7GIPmscLvLHP4_9xPRj0A7H_Wwe0AgKlQq6_5CO-MCjtOKiLaPCN1OqwqZBEhxKChOVSakvbxaxp2rpZPbb9D7aEGJMLVf0HShNPnJPgbIIfYwCVF5e-FoqFGQ04DoYvdnlLYmIDrEPNIAVTAdRKnwozdIAcnFYgpMaQ-w7DPomKiXlRK1bCfcKF7dNU1WTfgi-jQUlM1yeJljy2J_OAS6TPlOQS_uw1IcfD8neP5uiQN0RKMJEraCivxy5kX63LwC4iqMRiLktsp00LKxdiqBkFJkrTVCLxcvxKKI6xIdOPzFvUeJc5fKg00R0Tzik",
-          "width": 2048
-        }
-      ],
-      "place_id": "ChIJ2xeRu7NqkFQRQjsj5C2QP9I",
-      "plus_code": {
-        "compound_code": "JM57+F2 Seattle, WA, USA",
-        "global_code": "84VVJM57+F2"
-      },
-      "rating": 4.6,
-      "reference": "ChIJ2xeRu7NqkFQRQjsj5C2QP9I",
-      "scope": "GOOGLE",
-      "types": [
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 2327,
-      "vicinity": "216 Union Street, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6027528,
-          "lng": -122.3342127
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6040790302915,
-            "lng": -122.3329516697085
-          },
-          "southwest": {
-            "lat": 47.6013810697085,
-            "lng": -122.3356496302915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
-      "name": "Cherry Street Coffee House",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 2048,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/116556993781375405517\">Cherry Street Coffee House</a>"
-          ],
-          "photo_reference": "AeeoHcIUCCdSvFR7YRji-y0GUo0UY2ChWFxU9VAry_u6Z5fDNrm7XcymPXF83chxbLdKj6jVJeQhXZKwDlM1ZrehRiFcHfHuJQEyzwjgSIVU5Tx-aV4IiHzN79J8MQ2lpYp8ANiM1WpblfXcFwiPoiW05rMg5yic6aj2n-Zmg_wnRKzFCwxlGQd7ez1BmvM0PR2ahepjkO4ehXGo5vUCszFN8Ody8P7VjjajSiuKLxuK1HBfg-i7XJ8zVlH5JgsasA0UUmFVLBcprazB8qOrHDRgACSTTgL9bwtSxsBrN8R-t_YTc4NG6U710PqgZrgy5vehtP1PVqXGL28",
-          "width": 1638
-        }
-      ],
-      "place_id": "ChIJAyi_C7BqkFQRrBhr-KrrtOc",
-      "plus_code": {
-        "compound_code": "JM38+48 Seattle, WA, USA",
-        "global_code": "84VVJM38+48"
-      },
-      "price_level": 1,
-      "rating": 4.4,
-      "reference": "ChIJAyi_C7BqkFQRrBhr-KrrtOc",
-      "scope": "GOOGLE",
-      "types": [
-        "bakery",
-        "cafe",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "store",
-        "establishment"
-      ],
-      "user_ratings_total": 1052,
-      "vicinity": "700 1st Avenue, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6074515,
-          "lng": -122.3348903
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6088263802915,
-            "lng": -122.3336092697085
-          },
-          "southwest": {
-            "lat": 47.6061284197085,
-            "lng": -122.3363072302915
+            "lat": 47.65423931970849,
+            "lng": -122.3163801302915
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
       "icon_background_color": "#FF9E67",
       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Original Deli",
+      "name": "Local Point",
       "opening_hours": {
         "open_now": true
       },
       "photos": [
         {
-          "height": 3024,
+          "height": 3456,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/109851706869071635074\">Jeff Gowan</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/108810199302381838169\">Arihan Jalan</a>"
           ],
-          "photo_reference": "AeeoHcL4JjDRKmf0k6TT_S5cX-LJMqYvZl1LeyrQKHAA01p4gUkVKJRS3PFxWhhrFGH14trwEI0utYfcxwwWJIlRD55bSsMKO6KC75Tk5_SturC07z1IqDGdnOZZj3WnpbplyhdSD2QBYXDTCKL2BFjknqEbr6J4UpNSsVR98lR0v11wWn7ixYIZIWGUdVb30BlHPmuIlKWUkpwxthQMuAfwzyp7gvldpTpOeYRZyR0mzKYPGP7HzYKyg5ut4E18CzHUqcblIKXA1c318uzcrHI0rX1aw4pZbULf4cm3E8M4EPbWs106PJ7E-INxKsrDetRm6KN3BKAesVP_IJcntA9g9fWAPmviJvUo7vv2ZrfidopT1K_27fdZp55Gscy92Towu0QpHbuCBeKsFzhdXG8HvGNk8GyFhBwDqcsgrDow2J5RFQegbta4hgM3f7qWswWPeBEctf1ghmpTApl1WyUwYPw8Vy1C65-agGi9IFeJrYN3ERv8jUrmGAKH0P3EkCVPAxl6pYwduYN0i7qwaeDvD45mM9ryj-3oCKVpvGogY5Tx_-AElo0xUZAoRPzHQVALpfwbkN2IfjZckgTaRO21ycnBd4jnUfGug-RqTLOgHHRBVXVd7E3lisDq6inPpnSOpYpqYQ",
-          "width": 4032
+          "photo_reference": "AeeoHcKs0Nk0Os3ToMlHNzhDg1Aqmks2nfTd6ZWRULC2MgtETrvOVwAs63VKGcfrC35Es0KBCzVxKXYdTMgVfwWSdco6sESiGl14AgTjS2XJfwwxAo0K2qhTCo9Yi7AcF1u0PB6Q5K6nrs7z8589mXtBwec64ECXAr7reD4ZIBnjWbN7VeFguiooz3krzcTs7pIat4pQoc-pxd-ZRXXG1F0rb60WcBwmAAZ36ixzhxa1sAObPkqrCp-TwnMwZnq6_bBOKEXonYT5fMiHyZRFo98KNvuNnGXyBefwPD8MAnKX8UqY23od7V3WEGkpBBnGouCX-aUwpUuKNPSwhxpKna8j_ADOGdikLCidXbD5xF2TCDDVif-QFz0jgv8jy6SCy5pR2-FW91mB6jv9_rMccyrJmZoOm6znsSx87uYNR0oTJHkFV0o-IO8VAgvkDM2F1jg6j3wnnUbcjfnWoyO5P2LuVANyFaQ_Vg2ZVvKyYhEuHNPd3i8i0m8J9E01cKW_KuWz52UYY5qJ-7yTwU6P5Nvh-2V6yZDV6YAp4qdhG6l16NCN98U6rhu_b6KcfLAG00yWl8VGydHON42zCgCi1aEKrVc9KSTE6Uljxs-2kH6zsK9dkPbNQlVbVqzwy4Jz_ykBYdP2B5WE",
+          "width": 4608
         }
       ],
-      "place_id": "ChIJYTsF4rNqkFQRY0yKbRAG0Oo",
+      "place_id": "ChIJpzomt_MUkFQR-vAZ7Y9CSps",
       "plus_code": {
-        "compound_code": "JM48+X2 Seattle, WA, USA",
-        "global_code": "84VVJM48+X2"
-      },
-      "price_level": 1,
-      "rating": 4.8,
-      "reference": "ChIJYTsF4rNqkFQRY0yKbRAG0Oo",
-      "scope": "GOOGLE",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 282,
-      "vicinity": "1215 4th Avenue # A-B, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6079956,
-          "lng": -122.3338074
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.60916238029149,
-            "lng": -122.3327285197085
-          },
-          "southwest": {
-            "lat": 47.6064644197085,
-            "lng": -122.3354264802915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "SHUCKERS OYSTER BAR",
-      "opening_hours": {
-        "open_now": false
-      },
-      "photos": [
-        {
-          "height": 2250,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/115117357552816988479\">SHUCKERS OYSTER BAR</a>"
-          ],
-          "photo_reference": "AeeoHcLAak-N5w0Mn3gjFKtfThpf-rFdT_mlvr85tLo3sMPJxK5Q7a0BEhlnAKdzAN9TIHg7iTDH5V3gpraaiJGpSqVWk3ieuMLmbQ-PU9oGsKdYdu1Xc1IyuIj-2eQ5WGwdnHU3sFtW7K9R0coP7YX2uVZVwBUmzvrS9ObVqothhRAGQSrr0LJZlGP3bS4Cpahsc7x-4Nga8jH2j17xKiCz216-vASO06-9jQwObFaDQKXjpmADhALtM80kKUkKAk3a4ApPnEaq5CYgHZDTBqGa8LSFOVcmKxHJUVLueUNM2njMYBdS4DYZda6ipWJUWpMKgUWDdAN9bCg",
-          "width": 3000
-        }
-      ],
-      "place_id": "ChIJk63I_rNqkFQR3EtxoHQwzBM",
-      "plus_code": {
-        "compound_code": "JM58+5F Seattle, WA, USA",
-        "global_code": "84VVJM58+5F"
-      },
-      "price_level": 3,
-      "rating": 4.4,
-      "reference": "ChIJk63I_rNqkFQR3EtxoHQwzBM",
-      "scope": "GOOGLE",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 656,
-      "vicinity": "411 University Street, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.61031819999999,
-          "lng": -122.3341399
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6116098802915,
-            "lng": -122.3325595697085
-          },
-          "southwest": {
-            "lat": 47.6089119197085,
-            "lng": -122.3352575302915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Sushi Kudasai",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 4032,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/104932865081624848539\">Kirill Delyagin</a>"
-          ],
-          "photo_reference": "AeeoHcJajzL_Po30H_bjXu125GUK50p2RTLD1hri56Kvk2hNCyrulzHjHQxPEnEpvEBBiLqSNBsHeGfo6NPvEH8hbGvWkI8rzyFn2x0FPSGw0q4PvDhzyIXgyN-XLiqzO9MEAXQ2_Z0lCxHgaiN7zfc0oCx9CEzAnOWl40w7B_rrjvZFYh0zTQtA81xdWNsbtKbr27uFO-z33ZHr50Fz2XO2frcq9m2uXfaUPCfsrg9kkFY2ifs7jnytOFr-pwBM1QIcog7OHG7ZJuOs8q9nkXBWPh9-q6Y-kT_1AI9Y6w53zW3Cl7Hdcgl7zpZIAJp3ZtOS2wWT8RvNmnlhE9EfowwgOinWWCTiKu4X6Tznui7dLnIdGcAufVK5kzZkyGpBDx1sZCpKbkXul-jzeGw8dd7R3j3oc_7wPWC4HxWQRG6xBiawCyc7BPlw_0ode16_K8c8t0jc9YBdxO0KAQlrwlGo8yJTcQQdvE-4-ZeYGRYPEsmc398i6pnd83mtutFEQWkxAZ9gkvwUhJbaw12_CArqeztqoZ3zxq5Rudmr6L6qWF9DP8nl0R2oJkL1BhDBRjjXEWc5LCY2acIr54kZQlyk2QQKlO0D6gHSUjP6_ZQ2wIYKBfn2_iU0vNpmrxa6Liwl",
-          "width": 3024
-        }
-      ],
-      "place_id": "ChIJ8VNIirRqkFQR42giiW6lniA",
-      "plus_code": {
-        "compound_code": "JM68+48 Seattle, WA, USA",
-        "global_code": "84VVJM68+48"
-      },
-      "rating": 4.4,
-      "reference": "ChIJ8VNIirRqkFQR42giiW6lniA",
-      "scope": "GOOGLE",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 250,
-      "vicinity": "1420 5th Avenue #203, Seattle"
-    },
-    {
-      "business_status": "OPERATIONAL",
-      "geometry": {
-        "location": {
-          "lat": 47.6022337,
-          "lng": -122.3321354
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6035310802915,
-            "lng": -122.3309080697085
-          },
-          "southwest": {
-            "lat": 47.6008331197085,
-            "lng": -122.3336060302915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
-      "name": "Collins Pub",
-      "opening_hours": {
-        "open_now": true
-      },
-      "photos": [
-        {
-          "height": 3024,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/102174925789380464492\">Deb Kapteyn</a>"
-          ],
-          "photo_reference": "AeeoHcIDYRjBJ2sC5viJaMB_1hRGrxC33Q7kfH7ak6WfX0wEs9jOcyv-nnNGW1MPmCmhydoQRWTJZOg89qsJvzyBepX_S_BtR_GXAs8U31cCwgfxcKCpO14ppGLYDhPR3l6WNq4ZsBTrRUds5FJFaCW5MiVAXRnvB1subbT3VblMCViFjl7DbKgJq9ESSouS5PGMvMVqNGHsun7ZJZMKuwuMsEzwX-aYrXeDZ_32BlL9Wr4ZvdEHUKLiMgKb6xg4SHqRrBskI1vI57Qt0D93XMT2BF1Hcn49fMncmMpbglEfVeETaEmwcQLOqZ_iSXtvyWIIbKE8B4ePDXJ-fEWQ-jU_r_Lad06f60IRNVw5nIQp8fsafKT7wa4rRhCTTHiNZ5yXaHpebZI_tCBqvrbwZncU-lQP120EQ363N8_Zc5NapqSntHoLYPJtrr-V3ziL4i-A3sly--pCPOF-iyG5YiwJc73qGrUu0xsQC7dcYfr68IHrELGnP1M3PBL8waNrevuD9w0S4JwCsejgujNoBfZydDbOh7UlStVa2-mGExJQmFgX8DqfysVY2em1OhLs5vIyAZovGxdMnzyK99miQSMrfr-fhKptD0EwzEc6EAPSm5W8DqS4Nq8eoAxQvEvlM0-TEAYyjTiP",
-          "width": 3024
-        }
-      ],
-      "place_id": "ChIJWVuUkLpqkFQRjAp4gthzzdo",
-      "plus_code": {
-        "compound_code": "JM29+V4 Seattle, WA, USA",
-        "global_code": "84VVJM29+V4"
+        "compound_code": "MM4P+83 Seattle, WA, USA",
+        "global_code": "84VVMM4P+83"
       },
       "price_level": 2,
-      "rating": 4.4,
-      "reference": "ChIJWVuUkLpqkFQRjAp4gthzzdo",
+      "rating": 3.1,
+      "reference": "ChIJpzomt_MUkFQR-vAZ7Y9CSps",
       "scope": "GOOGLE",
       "types": [
-        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 325,
+      "vicinity": "1245 Northeast Campus Parkway, Seattle"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 47.6582075,
+          "lng": -122.313646
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 47.6595733302915,
+            "lng": -122.3123664697085
+          },
+          "southwest": {
+            "lat": 47.6568753697085,
+            "lng": -122.3150644302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Sizzle&Crunch Vietnamese Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112243474068298556020\">Sizzle&amp;Crunch Vietnamese Grill</a>"
+          ],
+          "photo_reference": "AeeoHcKJD8jZYnUOl6LKmh74p1MoEVUvXVx5AF9NzYixO6eZa_5DjTApoNTgx2H_J7L2pk3kI-fP-g6WuyGtoAhNabGIZkTHpsRlJF7ZlLXd4ZdiGv7O_F626I6AXCzDQkbILWXvuDcqcYOB_I9IqQHNLXR_GPdVdFCRQnb91sNxjgEpug9nDyvZctao8nu55h6JSHNaLBVs7Sgn2wySBrpMyEybLHkvpXxVCCI7Q7MMOq55GQfwjssN8WVX9VjY9CrPXYuO8qwb-gkaF3XThOKKm6LAwUDRdScgm5136SSITkpJtpqJN2nv2UD4VpvxRZw-LOAallBmeWA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ98C7oPQUkFQR-RlbvbijjIs",
+      "plus_code": {
+        "compound_code": "MM5P+7G Seattle, WA, USA",
+        "global_code": "84VVMM5P+7G"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJ98C7oPQUkFQR-RlbvbijjIs",
+      "scope": "GOOGLE",
+      "types": [
         "restaurant",
         "food",
         "point_of_interest",
         "establishment"
       ],
       "user_ratings_total": 642,
-      "vicinity": "526 2nd Avenue, Seattle"
+      "vicinity": "1313 Northeast 42nd Street, Seattle"
     },
     {
       "business_status": "OPERATIONAL",
       "geometry": {
         "location": {
-          "lat": 47.60741379999999,
-          "lng": -122.3336713
+          "lat": 47.65898379999999,
+          "lng": -122.3130682
         },
         "viewport": {
           "northeast": {
-            "lat": 47.6087203802915,
-            "lng": -122.3325051197085
+            "lat": 47.66032258029149,
+            "lng": -122.3117927197085
           },
           "southwest": {
-            "lat": 47.6060224197085,
-            "lng": -122.3352030802915
+            "lat": 47.65762461970849,
+            "lng": -122.3144906802915
           }
         }
       },
       "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
       "icon_background_color": "#FF9E67",
       "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "TRACE Market",
+      "name": "Chili's South Indian Cuisine",
       "opening_hours": {
-        "open_now": true
+        "open_now": false
       },
       "photos": [
         {
-          "height": 506,
+          "height": 3024,
           "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107892788341519559651\">TRACE Market</a>"
+            "<a href=\"https://maps.google.com/maps/contrib/104561776155843342929\">Suyash Agrawal</a>"
           ],
-          "photo_reference": "AeeoHcKbVPzb619RS_5aAEqkrFbTMuvDTPWgSckK9EKMUU36svT5Uxbsy0x8O_NHkxoJWk-lpWyBvrG7Re8n3WZiB-DItK6aEyY5V010MJi12QXVsEqkv8Uc5-h2OyGxo-bZTU0YWhQBfAdItnsQme4AzLH1FRmg4exMEScYFpHcrYfF7beubgz06L1it3V-kDAbG_h4rNilMeUVh1gzAZk1-SBqOADnf-NW66Bn-KL2Jhsez2ky0JKJyW9ptLo7yyMDUxGfTjfbFi6SMvgUENgIV78g2KiKnaiZXOofX-c8xmclZUeLBgxYuP9b4Dwck--DguVf3P4h0aM",
-          "width": 758
+          "photo_reference": "AeeoHcIwzQiapJM1VOmcO5reoqycfy5Nc76S93L9vbUbjke7c4GwtXxRis-yfxRxIEGjtVMFs8hwnH0Fbqc-Yt7XvRc_yUU6TuaQJU3m3vGyrIDvSskoq77c-p84D2h9D7ml4cnFqSxV2DeyM4nt22K1GDlG4aGi1z7ZpMxQEgFjUmyQ9YK9REdd_xhC6G4v3Rj6NVY7IfNCux6a9KRPn1FVdpQXVGYhE7xEb2JDbx5Wkh-cmVqMTfuY3_m6BNX9iFZRkSxmSA8jzEsrvGd9ugaCkUlpXhz_T_L-_zZhXsRX2Yj4wZ1er5U4tNs_42C2PRVaG2GDrHQO-rJ6Wl1tnG_pC2wqehWDunfNczLWBzOVOwSOnwOYw4qeVnuaQiQuPy8HxBFEhclpxnV7H9Y01P8AmS4G-gVNAE1__rp9BrIg9Kzjfm5WwfI0Z50J39PrGcAeiNTBaVEko5jXOLWe8weXx4LLBwflEFeO33e2H_po_0RYWxtJ0VPeCsYT8oFTmanPOCWU3JU6o6JJN3rDyPvO3vLLl55kzCfhtQ0ENuoZce3dDNlqaoEbVUTMsA8VwwGoEDYFxWmwbjp54oNgy8crng7y4HeSc6ISpGPq4qki9EJ6DFYr6kS-slE8JtSrfwXuNcHg6y6x",
+          "width": 4032
         }
       ],
-      "place_id": "ChIJT2djT7FqkFQRGYb_BBWPvlE",
+      "place_id": "ChIJCT0L62EUkFQR-TkjBGLltbk",
       "plus_code": {
-        "compound_code": "JM48+XG Seattle, WA, USA",
-        "global_code": "84VVJM48+XG"
+        "compound_code": "MM5P+HQ Seattle, WA, USA",
+        "global_code": "84VVMM5P+HQ"
       },
-      "rating": 4,
-      "reference": "ChIJT2djT7FqkFQRGYb_BBWPvlE",
-      "scope": "GOOGLE",
-      "types": [
-        "restaurant",
-        "night_club",
-        "bar",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "user_ratings_total": 229,
-      "vicinity": "1112 4th Avenue, Seattle"
-    },
-    {
-      "business_status": "CLOSED_TEMPORARILY",
-      "geometry": {
-        "location": {
-          "lat": 47.60823319999999,
-          "lng": -122.3274617
-        },
-        "viewport": {
-          "northeast": {
-            "lat": 47.6096309302915,
-            "lng": -122.3260227197085
-          },
-          "southwest": {
-            "lat": 47.6069329697085,
-            "lng": -122.3287206802915
-          }
-        }
-      },
-      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-      "icon_background_color": "#FF9E67",
-      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-      "name": "Vito's",
-      "permanently_closed": true,
-      "photos": [
-        {
-          "height": 1280,
-          "html_attributions": [
-            "<a href=\"https://maps.google.com/maps/contrib/107166352381588744652\">Vito&#39;s</a>"
-          ],
-          "photo_reference": "AeeoHcLudhiGG3Dxl8o12RMThUJIARxhEGPvylsJCik1eaiArQmiyrhDCb5bqb_P-B6eVI4ponyO4iiiwzEQzcJdG1PO0PdvTXMk-dtOAwXj-y_zZrdP3ws-qkncbiB9IlOUPgwJvEqP7dxI6WVcoKHDjdaiYPaOzmb825dIkC-XhTUuZN3FRh6fco9hE4KrT5Tl12CLvzCQtrWXSZl1afyuK5y5zx-kyPBxN5-jVP7zmePTz_oouXc_Su_j2Mv612idLy3egJ8l0k2GLFKu5ii80GQisiigoW0ooseuVGIHmQaASls6zRsqtgWhf4FawEupY3pymbDwcfk",
-          "width": 1920
-        }
-      ],
-      "place_id": "ChIJ5-XuRbZqkFQRHy2J8dvkalw",
-      "plus_code": {
-        "compound_code": "JM5F+72 Seattle, WA, USA",
-        "global_code": "84VVJM5F+72"
-      },
-      "price_level": 2,
-      "rating": 4.5,
-      "reference": "ChIJ5-XuRbZqkFQRHy2J8dvkalw",
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJCT0L62EUkFQR-TkjBGLltbk",
       "scope": "GOOGLE",
       "types": [
         "restaurant",
@@ -1069,8 +1070,8 @@
         "point_of_interest",
         "establishment"
       ],
-      "user_ratings_total": 821,
-      "vicinity": "927 9th Avenue, Seattle"
+      "user_ratings_total": 1236,
+      "vicinity": "4220 University Way Northeast, Seattle"
     }
   ],
   "status": "OK"
