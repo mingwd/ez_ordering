@@ -1,9 +1,10 @@
 from django.urls import path
-from . import views as merchant_views
-from django.contrib.auth import views as auth_views
+from .views import auth as auth_views
+from .views import dashboard as dashboard_views
+from django.contrib.auth.views import LogoutView
 
 urlpatterns = [
-    path('login/', auth_views.LoginView.as_view(template_name='merchant/login.html'), name='merchant_login'),
-    path('logout/', auth_views.LogoutView.as_view(next_page='merchant_login'), name='merchant_logout'),
-    path('dashboard/', merchant_views.merchant_dashboard, name='merchant_dashboard'),
+    path('login/', auth_views.MerchantLoginView.as_view(), name='merchant_login'),
+    path('logout/', LogoutView.as_view(next_page='merchant_login'), name='merchant_logout'),
+    path('dashboard/', dashboard_views.merchant_dashboard, name='merchant_dashboard'),
 ]
