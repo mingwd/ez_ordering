@@ -1,10 +1,12 @@
 from django.db import models
 from .constants import PROTEIN_TYPE_CHOICES, US_STATE_CHOICES
+from django.contrib.auth.models import User
 
 
 
 # Create your models here.
 class Restaurant(models.Model):
+    owner = models.ForeignKey(User, on_delete=models.CASCADE, related_name='restaurants')
     name = models.CharField(max_length=200)
     street_address = models.CharField(max_length=200)
     city = models.CharField(max_length=100)
@@ -17,7 +19,7 @@ class Restaurant(models.Model):
         return self.name
     
 class Item(models.Model):
-    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE)
+    restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='items')
     name = models.CharField(max_length=100)
     image = models.ImageField(upload_to='dish_photos/')
     meal_type = models.CharField(
@@ -42,4 +44,4 @@ class ProteinType(models.Model):
     )
 
     def __str__(self):
-        return self.name
+        return self.get_name_display()

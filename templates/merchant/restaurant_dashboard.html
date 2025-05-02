@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Restaurant Dashboard</title>
+</head>
+
+<body>
+    <h1>{{ restaurant.name }}</h1>
+    <h3>Menu Items:</h3>
+    <ul>
+        {% for item in items %}
+        <li>
+            <strong>{{item.name}}</strong> - {{item.get_meal_type_display}}
+            <ul>
+                <li>Protein: {{ item.protein_grams }}g</li>
+                <li>Protein Type: {{ item.protein_type }}</li>
+                <li>Veggie: {{ item.veggie_grams }}g</li>
+                <li>Carb: {{ item.carb_grams }}g</li>
+                {% if item.image %}
+                <li><img src="{{ item.image.url }}" width="100" height="100"></li>
+                {% endif %}
+            </ul>
+
+        </li>
+        {% empty %}
+        <li>
+            <p>No items, plese add one.</p>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <p><a href="{% url 'merchant_dashboard' %}">← Back to My Restaurants</a></p>
+    <p>
+        <a href="{% url 'add_item'%}">
+            <button type="submit">Add items to menu</button>
+        </a>
+    </p>
+
+
+
+</body>
+
+</html>

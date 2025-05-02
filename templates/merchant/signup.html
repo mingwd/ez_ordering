@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Merchant Login</title>
+</head>
+
+<body>
+    <h2>Merchant Sign Up</h2>
+
+    <form method="post">
+        {% csrf_token %}
+        <fieldset>
+            <legend>Account Info</legend>
+            {{ user_form.as_p }}
+        </fieldset>
+
+        <fieldset>
+            <legend>Restaurant Info</legend>
+            {{ restaurant_form.as_p }}
+        </fieldset>
+
+        <button type="submit">Create Account</button>
+
+    </form>
+
+</body>
+
+</html>
