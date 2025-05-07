@@ -20,6 +20,11 @@
     <p>You don't have any restaurants</p>
     {% endfor %}
 
+    <form action="{% url 'add_restaurant' %}">
+        {% csrf_token %}
+        <button type="submit">Add New Restaurant</button>
+    </form>
+
     <form method="post" action="{% url 'merchant_logout' %}">
         {% csrf_token %}
         <button type="submit">Log out</button>

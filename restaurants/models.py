@@ -4,7 +4,6 @@ from django.contrib.auth.models import User
 
 
 
-# Create your models here.
 class Restaurant(models.Model):
     owner = models.ForeignKey(User, on_delete=models.CASCADE, related_name='restaurants')
     name = models.CharField(max_length=200)
@@ -22,26 +21,22 @@ class Item(models.Model):
     restaurant = models.ForeignKey(Restaurant, on_delete=models.CASCADE, related_name='items')
     name = models.CharField(max_length=100)
     image = models.ImageField(upload_to='dish_photos/')
-    meal_type = models.CharField(
-        max_length=20, 
-        choices=[('main', 'Main'),('side', 'Side'),('drink', 'Drink')],
-        default='main'
-    )
     protein_grams = models.PositiveIntegerField(default=0)
-    protein_type = models.ForeignKey('ProteinType', on_delete=models.CASCADE)
     veggie_grams = models.PositiveIntegerField(default=0)
     carb_grams = models.PositiveIntegerField(default=0)
     price = models.DecimalField(max_digits=6, decimal_places=2)
+    meal_ready_time = models.PositiveIntegerField()
+    tag = models.ManyToManyField('Tag', related_name='items')
+
+
+class Tag(models.Model):
+    name = models.CharField(max_length=100)
+    category = models.CharField(max_length=50)
 
     def __str__(self):
-        return f"{self.name}, P:{self.protein_grams}, V:{self.veggie_grams}, C:{self.carb_grams}, Type:{self.meal_type}, PT:{self.protein_type}"
-    
-class ProteinType(models.Model):
-    name = models.CharField(
-        max_length=50, 
-        choices=PROTEIN_TYPE_CHOICES,
-        default='none'
-    )
+        return f"{self.name}: {self.category}"
 
-    def __str__(self):
-        return self.get_name_display()
+class CustomerPreference(models.Model):
+    tag = models.ForeignKey(Tag, on_delete=models.CASCADE, related_name='customers')
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    count = models.PositiveIntegerField(default=0)
