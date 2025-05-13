@@ -1,0 +1,33 @@
+<!-- templates/customer/signup.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Customer Sign Up - EZ Ordering</title>
+</head>
+
+<body>
+    <h2>Customer</h2>
+    <form method="post">
+        {% csrf_token %}
+
+        <fieldset>
+            <legend>Account Info</legend>
+            {{ user_form.as_p }}
+        </fieldset>
+
+        <fieldset>
+            <legend>User Profile</legend>
+            {{ profile_form.as_p }}
+        </fieldset>
+
+        <fieldset>
+            <legend>Preference Tags (optional)</legend>
+            {{ tag_form.as_p }}
+        </fieldset>
+
+        <button type="submit">Sign Up</button>
+    </form>
+</body>
+
+</html>

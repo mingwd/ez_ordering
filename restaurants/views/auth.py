@@ -20,7 +20,7 @@ def merchant_signup_view(request):
 
         if user_form.is_valid() and restaurant_form.is_valid():
             user = user_form.save(commit=False)
-            user.set_password(user.password)
+            user.set_password(user_form.cleaned_data['password'])
             user.save()
 
             restaurant = restaurant_form.save(commit=False)

@@ -1,0 +1,26 @@
+<!-- templates/customer/dashboard.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Customer Dashboard - EZ Ordering</title>
+</head>
+
+<body>
+
+    <h2>Welcome, {{ user.username }}!</h2>
+
+    <ul>
+        <li>Height: {{ profile.height_cm }} cm</li>
+        <li>Weight: {{ profile.weight_kg }} kg</li>
+        <li>Age: {{ profile.age }} </li>
+        <li>Activity Level: {{ profile.get_activity_level_display }}</li>
+        <li>Gender: {{ profile.gender}}</li>
+    </ul>
+
+    <a href="{% url 'edit_customer_profile' %}">
+        <button>Edit</button>
+    </a>
+</body>
+
+</html>

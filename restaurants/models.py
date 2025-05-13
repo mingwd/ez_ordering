@@ -1,5 +1,5 @@
 from django.db import models
-from .constants import PROTEIN_TYPE_CHOICES, US_STATE_CHOICES
+from .constants import US_STATE_CHOICES
 from django.contrib.auth.models import User
 
 
@@ -35,8 +35,3 @@ class Tag(models.Model):
 
     def __str__(self):
         return f"{self.name}: {self.category}"
-
-class CustomerPreference(models.Model):
-    tag = models.ForeignKey(Tag, on_delete=models.CASCADE, related_name='customers')
-    user = models.ForeignKey(User, on_delete=models.CASCADE)
-    count = models.PositiveIntegerField(default=0)
