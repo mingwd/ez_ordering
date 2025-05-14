@@ -12,7 +12,7 @@ def customer_login_view(request):
             return redirect('customer_dashboard')
         else:
             return redirect('login_error')
-
+    # else
     form = UserRegisterForm
     return render(request, 'customer/login.html', {'form': form})
 
@@ -43,12 +43,11 @@ from .models import Tag
 @login_required
 def customer_profile_edit_view(request):
     if request.method == 'POST':
-        profile_form = CustomerProfileForm(request.POST)
+        profile, _ = CustomerProfile.objects.get_or_create(user=request.user)
+        profile_form = CustomerProfileForm(request.POST, instance=profile)
         tag_form = CustomerTagForm(request.POST)
 
         if profile_form.is_valid() and tag_form.is_valid():
-            profile, _ = CustomerProfile.objects.get_or_create(user=request.user)
-            profile_form = CustomerProfileForm(request.POST, instance=profile)
             profile_form.save()
 
             # existing user tag (sys generated or added before)
