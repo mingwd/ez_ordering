@@ -18,7 +18,17 @@
         <li>Gender: {{ profile.gender}}</li>
     </ul>
 
-    <a href="{% url 'edit_customer_profile' %}">
+    <h3>Your Preferences:</h3>
+    {% for category, tag_list in categorized_tags.items %}
+    <h4>{{ category|title }}</h4>
+    <ul>
+        {% for tag in tag_list %}
+        <li>{{ tag }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+    <a href="{% url 'customer_profile_edit' %}">
         <button>Edit</button>
     </a>
 </body>

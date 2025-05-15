@@ -39,6 +39,7 @@ def customer_signup_view(request):
 from django.contrib.auth.decorators import login_required
 from .models import CustomerProfile
 from .models import Tag
+from collections import defaultdict
 
 @login_required
 def customer_profile_edit_view(request):
@@ -81,20 +82,42 @@ def customer_profile_edit_view(request):
             'preference_tags': existing_tags,
         })
 
-    return render(request, 'customer/profile-edit.html', {
-        'profile_form': profile_form,
-        'tag_form': tag_form,
-        'highlighted_tags': [tag.id for tag in existing_tags], 
-    })
+        all_tags = Tag.objects.all().order_by('category')
+        grouped_tags = defaultdict(list)
+
+        for tag in all_tags:
+            grouped_tags[tag.category].append(tag)
+
+        grouped_tags = grouped_tags.items()
+
+        return render(request, 'customer/profile-edit.html', {
+            'profile_form': profile_form,
+            'tag_form': tag_form,
+            'highlighted_tags': [tag.id for tag in existing_tags],
+            'grouped_tags': grouped_tags,
+        })
 
 
 @login_required
 def customer_dashboard_view(request):
-    profile = CustomerProfileForm.objects.get(user=request.user)
+    profile = CustomerProfile.objects.get(user=request.user)
+    tags = Tag.objects.filter(customers__user=request.user)
+
+    categorized_tags = {}
+    for tag in tags:
+        pretty_name = tag.category.replace('_', ' ').title()
+        if pretty_name not in categorized_tags:
+            categorized_tags[pretty_name] = []
+        categorized_tags[pretty_name].append(tag.name)
+
     return render(request, 'customer/dashboard.html', {
         'profile': profile,
+        'categorized_tags': categorized_tags,
     })
 
 
 def customer_login_error_view(request):
     return render(request, 'customer/login_error.html')
+
+def homepage_view(request):
+    return render(request, 'home.html')

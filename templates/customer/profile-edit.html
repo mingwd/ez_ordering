@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Edit Your Preferences</title>
+    <style>
+        .tag-group {
+            margin-bottom: 20px;
+        }
+
+        .tag-label {
+            display: inline-block;
+            padding: 4px 8px;
+            margin: 4px;
+            border-radius: 6px;
+            border: 1px solid #aaa;
+            cursor: pointer;
+        }
+
+        input[type="checkbox"] {
+            display: none;
+        }
+
+        input[type="checkbox"] + .tag-label {
+            background-color: #eee;
+            color: #666;
+        }
+
+        input[type="checkbox"]:checked + .tag-label {
+            background-color: #007BFF;
+            color: white;
+            border-color: #007BFF;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Edit Your Profile</h1>
+
+    <form method="post">
+        {% csrf_token %}
+
+        <h2>Personal Info</h2>
+        {{ profile_form.as_p }}
+
+        <h2>Preferences</h2>
+
+        {% for category, tags in grouped_tags %}
+            <div class="tag-group">
+            <strong>{{ category|title }}</strong><br>
+            {% for tag in tags %}
+                <input type="checkbox" id="tag_{{ tag.id }}" name="preference_tags" value="{{ tag.id }}"
+                {% if tag.id in highlighted_tags %}checked{% endif %}>
+                <label class="tag-label" for="tag_{{ tag.id }}">{{ tag.name }}</label>
+            {% endfor %}
+            </div>
+        {% endfor %}
+
+        <br><br>
+        <button type="submit">Save Changes</button>
+    </form>
+</body>
+</html>
