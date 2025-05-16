@@ -44,12 +44,19 @@ from collections import defaultdict
 @login_required
 def customer_profile_edit_view(request):
     if request.method == 'POST':
-        profile, _ = CustomerProfile.objects.get_or_create(user=request.user)
+
+        try:
+            profile = CustomerProfile.objects.get(user=request.user)
+        except CustomerProfile.DoesNotExist:
+            profile = None
+
         profile_form = CustomerProfileForm(request.POST, instance=profile)
         tag_form = CustomerTagForm(request.POST)
 
         if profile_form.is_valid() and tag_form.is_valid():
-            profile_form.save()
+            profile = profile_form.save(commit=False)
+            profile.user = request.user
+            profile.save()
 
             # existing user tag (sys generated or added before)
             existing_prefs = CustomerPreference.objects.filter(user=request.user)
