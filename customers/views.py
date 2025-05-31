@@ -128,3 +128,25 @@ def customer_login_error_view(request):
 
 def homepage_view(request):
     return render(request, 'home.html')
+
+""" views that works with frontend """
+from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
+import json
+
+@csrf_exempt
+def frontend_login_view(request):
+    if request.method == 'POST':
+        data = json.loads(request.body)
+        username = data.get('username')
+        password = data.get('password')
+
+        user = authenticate(username=username, password=password)
+
+        if user is not None:
+            login(request, user)
+            print('User logged in successfully:', user.username)
+            return JsonResponse({'success': True})
+        else:
+            print('Wrong credential!')
+            return JsonResponse({'success': False, 'error': 'Username or Password Error!'})

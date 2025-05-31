@@ -32,7 +32,7 @@
 
     <p><a href="{% url 'merchant_dashboard' %}">← Back to My Restaurants</a></p>
     <p>
-        <a href="{% url 'add_item'%}">
+        <a href="{% url 'add_item' restaurant.id%}">
             <button type="submit">Add items to menu</button>
         </a>
     </p>

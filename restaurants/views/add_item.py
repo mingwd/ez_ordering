@@ -4,9 +4,9 @@ from restaurants.forms import AddItemForm
 from restaurants.models import Restaurant
 
 @login_required
-def add_item_view(request):
+def add_item_view(request, restaurant_id):
 
-    restaurant = Restaurant.objects.first()
+    restaurant = Restaurant.objects.get(id=restaurant_id, owner=request.user)
 
     if request.method == 'POST':
         form = AddItemForm(request.POST, request.FILES)
