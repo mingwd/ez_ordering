@@ -11,7 +11,7 @@ const LoginPage = () => {
     const handleSubmit = async e => {
         e.preventDefault();
 
-        const res = await fetch('http://localhost:8000/customer/f-login/', {
+        const res = await fetch('http://localhost:8000/django/customer/f-login/', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             credentials: 'include',
@@ -21,7 +21,7 @@ const LoginPage = () => {
         const data = await res.json();
 
         if (data.success) {
-            window.location.href = '/order';
+            window.location.href = '/customer/order';
         } else {
             setError(data.error || 'Login failed');
         }
