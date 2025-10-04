@@ -1,7 +1,7 @@
 from django.db import models
 from .constants import US_STATE_CHOICES
 from django.contrib.auth.models import User
-
+  
 
 
 class Restaurant(models.Model):
